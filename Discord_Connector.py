@@ -86,7 +86,7 @@ class LocalTylerModel:
     def __init__(self):
         self.tokenizer = RegexTokenizer()
         self.tokenizer.load(
-            model_file="/Users/tanishsatpal/Personal Stuff/Educational/Personal Coding Projects/PycharmProjects/AI Synchronised/Tokens/Tokens v1 - Might fail.model"
+            model_file="/Tylerbot/Tokens/Tokens v1 - Might fail.model"
         )
 
         self.model = GPTLanguageModel(
@@ -100,7 +100,7 @@ class LocalTylerModel:
         ).to(device)
 
         checkpoint = torch.load(
-            "/Users/tanishsatpal/Personal Stuff/Educational/Personal Coding Projects/PycharmProjects/AI Synchronised/Models/Not finetuned/v1/checkpoint_0.pth",
+            "/Tylerbot/Models/Not finetuned/v1/checkpoint_0.pth",
             weights_only=True
         )
 
