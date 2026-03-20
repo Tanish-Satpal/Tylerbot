@@ -1,7 +1,3 @@
-Here’s a clean, structured README tailored to your current architecture and intent:
-
----
-
 # TylerBot 🤖
 
 A multi-model Discord chatbot that lets users interact with different AI personalities and architectures through slash commands.
