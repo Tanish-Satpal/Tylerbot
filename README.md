@@ -268,26 +268,9 @@ Each model has **custom post-processing**:
 
 ## 👤 Credits
 
-* Developed by **Tanish (DiamondMiner / HaloVision)**
+* Developed by **Tanish Satpal (DiamondMiner / HaloVision)**
 * Built using:
 
   * PyTorch
   * HuggingFace Transformers
   * Discord API
-
----
-
-## 🧠 Philosophy
-
-TylerBot is not just a chatbot.
-
-It is a **controlled experiment in alignment**:
-
-* What makes text feel human?
-* How does structure influence perception?
-* Where does personality emerge from?
-
----
-
-If you want, next step I’d strongly recommend:
-→ Add a **live model switcher per user session** (not per command). That’s where this becomes seriously powerful.
