@@ -1,0 +1,4096 @@
+[\u0000] 0
+[\u0001] 1
+[\u0002] 2
+[\u0003] 3
+[\u0004] 4
+[\u0005] 5
+[\u0006] 6
+[\u0007] 7
+[\u0008] 8
+[\u0009] 9
+[\u000a] 10
+[\u000b] 11
+[\u000c] 12
+[\u000d] 13
+[\u000e] 14
+[\u000f] 15
+[\u0010] 16
+[\u0011] 17
+[\u0012] 18
+[\u0013] 19
+[\u0014] 20
+[\u0015] 21
+[\u0016] 22
+[\u0017] 23
+[\u0018] 24
+[\u0019] 25
+[\u001a] 26
+[\u001b] 27
+[\u001c] 28
+[\u001d] 29
+[\u001e] 30
+[\u001f] 31
+[ ] 32
+[!] 33
+["] 34
+[#] 35
+[$] 36
+[%] 37
+[&] 38
+['] 39
+[(] 40
+[)] 41
+[*] 42
+[+] 43
+[,] 44
+[-] 45
+[.] 46
+[/] 47
+[0] 48
+[1] 49
+[2] 50
+[3] 51
+[4] 52
+[5] 53
+[6] 54
+[7] 55
+[8] 56
+[9] 57
+[:] 58
+[;] 59
+[<] 60
+[=] 61
+[>] 62
+[?] 63
+[@] 64
+[A] 65
+[B] 66
+[C] 67
+[D] 68
+[E] 69
+[F] 70
+[G] 71
+[H] 72
+[I] 73
+[J] 74
+[K] 75
+[L] 76
+[M] 77
+[N] 78
+[O] 79
+[P] 80
+[Q] 81
+[R] 82
+[S] 83
+[T] 84
+[U] 85
+[V] 86
+[W] 87
+[X] 88
+[Y] 89
+[Z] 90
+[[] 91
+[\] 92
+[]] 93
+[^] 94
+[_] 95
+[`] 96
+[a] 97
+[b] 98
+[c] 99
+[d] 100
+[e] 101
+[f] 102
+[g] 103
+[h] 104
+[i] 105
+[j] 106
+[k] 107
+[l] 108
+[m] 109
+[n] 110
+[o] 111
+[p] 112
+[q] 113
+[r] 114
+[s] 115
+[t] 116
+[u] 117
+[v] 118
+[w] 119
+[x] 120
+[y] 121
+[z] 122
+[{] 123
+[|] 124
+[}] 125
+[~] 126
+[\u007f] 127
+[�] 128
+[�] 129
+[�] 130
+[�] 131
+[�] 132
+[�] 133
+[�] 134
+[�] 135
+[�] 136
+[�] 137
+[�] 138
+[�] 139
+[�] 140
+[�] 141
+[�] 142
+[�] 143
+[�] 144
+[�] 145
+[�] 146
+[�] 147
+[�] 148
+[�] 149
+[�] 150
+[�] 151
+[�] 152
+[�] 153
+[�] 154
+[�] 155
+[�] 156
+[�] 157
+[�] 158
+[�] 159
+[�] 160
+[�] 161
+[�] 162
+[�] 163
+[�] 164
+[�] 165
+[�] 166
+[�] 167
+[�] 168
+[�] 169
+[�] 170
+[�] 171
+[�] 172
+[�] 173
+[�] 174
+[�] 175
+[�] 176
+[�] 177
+[�] 178
+[�] 179
+[�] 180
+[�] 181
+[�] 182
+[�] 183
+[�] 184
+[�] 185
+[�] 186
+[�] 187
+[�] 188
+[�] 189
+[�] 190
+[�] 191
+[�] 192
+[�] 193
+[�] 194
+[�] 195
+[�] 196
+[�] 197
+[�] 198
+[�] 199
+[�] 200
+[�] 201
+[�] 202
+[�] 203
+[�] 204
+[�] 205
+[�] 206
+[�] 207
+[�] 208
+[�] 209
+[�] 210
+[�] 211
+[�] 212
+[�] 213
+[�] 214
+[�] 215
+[�] 216
+[�] 217
+[�] 218
+[�] 219
+[�] 220
+[�] 221
+[�] 222
+[�] 223
+[�] 224
+[�] 225
+[�] 226
+[�] 227
+[�] 228
+[�] 229
+[�] 230
+[�] 231
+[�] 232
+[�] 233
+[�] 234
+[�] 235
+[�] 236
+[�] 237
+[�] 238
+[�] 239
+[�] 240
+[�] 241
+[�] 242
+[�] 243
+[�] 244
+[�] 245
+[�] 246
+[�] 247
+[�] 248
+[�] 249
+[�] 250
+[�] 251
+[�] 252
+[�] 253
+[�] 254
+[�] 255
+[ ][ ] -> [  ] 256
+[<][|] -> [<|] 257
+[|][>] -> [|>] 258
+[t][o] -> [to] 259
+[t][e] -> [te] 260
+[a][r] -> [ar] 261
+[f][te] -> [fte] 262
+[x][t] -> [xt] 263
+[<|][s] -> [<|s] 264
+[fte][xt] -> [ftext] 265
+[ftext][|>] -> [ftext|>] 266
+[\][n] -> [\n] 267
+[n][d] -> [nd] 268
+[e][p] -> [ep] 269
+[e][nd] -> [end] 270
+[to][r] -> [tor] 271
+[t][ar] -> [tar] 272
+[ar][a] -> [ara] 273
+[ep][ara] -> [epara] 274
+["][,] -> [",] 275
+[end][o] -> [endo] 276
+[\u000a][  ] -> [\u000a  ] 277
+[\u000a  ][  ] -> [\u000a    ] 278
+[\u000a    ]["] -> [\u000a    "] 279
+[\u000a    "][<|s] -> [\u000a    "<|s] 280
+[\u000a    "<|s][tar] -> [\u000a    "<|star] 281
+[\u000a    "<|star][to] -> [\u000a    "<|starto] 282
+[\u000a    "<|starto][ftext|>] -> [\u000a    "<|startoftext|>] 283
+[<|s][epara] -> [<|separa] 284
+[<|separa][tor] -> [<|separator] 285
+[<|separator][|>] -> [<|separator|>] 286
+[<|][endo] -> [<|endo] 287
+[<|endo][ftext|>] -> [<|endoftext|>] 288
+[<|endoftext|>][",] -> [<|endoftext|>",] 289
+[<|endoftext|>",][\u000a    "<|startoftext|>] -> [<|endoftext|>",\u000a    "<|startoftext|>] 290
+[a][n] -> [an] 291
+[i][s] -> [is] 292
+[e][ ] -> [e ] 293
+[o][u] -> [ou] 294
+[t][ ] -> [t ] 295
+[s][s] -> [ss] 296
+[is][t] -> [ist] 297
+[an][t] -> [ant] 298
+[Y][ou] -> [You] 299
+[A][ss] -> [Ass] 300
+[You][<|separator|>] -> [You<|separator|>] 301
+[ist][ant] -> [istant] 302
+[<|endoftext|>",\u000a    "<|startoftext|>][Ass] -> [<|endoftext|>",\u000a    "<|startoftext|>Ass] 303
+[<|endoftext|>",\u000a    "<|startoftext|>Ass][istant] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant] 304
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant][<|separator|>] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 305
+[<|endoftext|>",\u000a    "<|startoftext|>][You<|separator|>] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 306
+[t][h] -> [th] 307
+[i][n] -> [in] 308
+[s][ ] -> [s ] 309
+[ ][s] -> [ s] 310
+[e][r] -> [er] 311
+[y][ ] -> [y ] 312
+[o][n] -> [on] 313
+[a][l] -> [al] 314
+[i][ ] -> [i ] 315
+[h][a] -> [ha] 316
+[d][ ] -> [d ] 317
+[o][ ] -> [o ] 318
+[in][g] -> [ing] 319
+[o][r] -> [or] 320
+[a][ ] -> [a ] 321
+[r][e] -> [re] 322
+[ ][th] -> [ th] 323
+[e][n] -> [en] 324
+[E][ ] -> [E ] 325
+[ ][m] -> [ m] 326
+[i][t] -> [it] 327
+[T][ ] -> [T ] 328
+[u][s] -> [us] 329
+[ ][w] -> [ w] 330
+[e][\n] -> [e\n] 331
+[e][a] -> [ea] 332
+[o][w] -> [ow] 333
+[a][m] -> [am] 334
+[l][l] -> [ll] 335
+[S][ ] -> [S ] 336
+[is][ ] -> [is ] 337
+[a][nd] -> [and] 338
+[I][ ] -> [I ] 339
+[T][H] -> [TH] 340
+[ing][ ] -> [ing ] 341
+[l][i] -> [li] 342
+[t][\n] -> [t\n] 343
+[w][a] -> [wa] 344
+[c][h] -> [ch] 345
+[I][N] -> [IN] 346
+[o][m] -> [om] 347
+[ ][b] -> [ b] 348
+[i][g] -> [ig] 349
+[i][t ] -> [it ] 350
+[ ][d] -> [ d] 351
+['][s ] -> ['s ] 352
+[e][s] -> [es] 353
+[ ][g] -> [ g] 354
+[t][i] -> [ti] 355
+[y][ou] -> [you] 356
+[E][A] -> [EA] 357
+[o][f] -> [of] 358
+[al][l] -> [all] 359
+[ th][e ] -> [ the ] 360
+[c][k] -> [ck] 361
+[th][e ] -> [the ] 362
+[r][a] -> [ra] 363
+[ ][c] -> [ c] 364
+[l][a] -> [la] 365
+[n][o] -> [no] 366
+[\]["] -> [\"] 367
+[v][e ] -> [ve ] 368
+[e][d ] -> [ed ] 369
+[ ][a] -> [ a] 370
+[ ][u] -> [ u] 371
+[o][o] -> [oo] 372
+[l][e] -> [le] 373
+[m][a] -> [ma] 374
+[f][or] -> [for] 375
+[-][\n] -> [-\n] 376
+[i][d] -> [id] 377
+[ ][h] -> [ h] 378
+[r][o] -> [ro] 379
+[O][ ] -> [O ] 380
+[k][e ] -> [ke ] 381
+[y][\n] -> [y\n] 382
+[a][t ] -> [at ] 383
+[ha][t ] -> [hat ] 384
+[E][R] -> [ER] 385
+[D][ ] -> [D ] 386
+[Y][ ] -> [Y ] 387
+[v][er] -> [ver] 388
+[s][\n] -> [s\n] 389
+[ ][p] -> [ p] 390
+[e][s ] -> [es ] 391
+[w][h] -> [wh] 392
+[ig][h] -> [igh] 393
+[A][N] -> [AN] 394
+[u][p] -> [up] 395
+[u][r] -> [ur] 396
+[H][A] -> [HA] 397
+[i]['] -> [i'] 398
+[\n][s] -> [\ns] 399
+[l][er] -> [ler] 400
+[l][o] -> [lo] 401
+[-][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [-<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 402
+[g][o] -> [go] 403
+[ ][f] -> [ f] 404
+[i][r] -> [ir] 405
+[\n][i ] -> [\ni ] 406
+['][t ] -> ['t ] 407
+[i][m] -> [im] 408
+[i][c] -> [ic] 409
+[O][N] -> [ON] 410
+[IN][G] -> [ING] 411
+[e][d] -> [ed] 412
+[e][l] -> [el] 413
+[o][h] -> [oh] 414
+[a][t] -> [at] 415
+[re][al] -> [real] 416
+[e][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [e<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 417
+[and][ ] -> [and ] 418
+[y][ler] -> [yler] 419
+[ ][to] -> [ to] 420
+[i][f] -> [if] 421
+[ ][i ] -> [ i ] 422
+[m][e ] -> [me ] 423
+[m][e] -> [me] 424
+[ ][t] -> [ t] 425
+[ea][k] -> [eak] 426
+[T][\n] -> [T\n] 427
+[I][S ] -> [IS ] 428
+[n][e] -> [ne] 429
+[i'][m] -> [i'm] 430
+[O][M] -> [OM] 431
+[b][u] -> [bu] 432
+[n][ow] -> [now] 433
+[r][i] -> [ri] 434
+[c][an] -> [can] 435
+[b][a] -> [ba] 436
+[O][U] -> [OU] 437
+[ ][S] -> [ S] 438
+[m][y ] -> [my ] 439
+[s][o ] -> [so ] 440
+[s][h] -> [sh] 441
+[no][t ] -> [not ] 442
+[li][ke ] -> [like ] 443
+[u][h] -> [uh] 444
+[\n][W] -> [\nW] 445
+[e][t ] -> [et ] 446
+[L][L] -> [LL] 447
+[te][r] -> [ter] 448
+[us][t ] -> [ust ] 449
+[TH][E ] -> [THE ] 450
+[e][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [e<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 451
+[ s][a] -> [ sa] 452
+[t][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [t<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 453
+[t][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [t<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 454
+[E][N] -> [EN] 455
+[p][p] -> [pp] 456
+[us][h] -> [ush] 457
+[l][e ] -> [le ] 458
+[O][R] -> [OR] 459
+[p][eak] -> [peak] 460
+[ s][h] -> [ sh] 461
+[i][ll] -> [ill] 462
+[i][th] -> [ith] 463
+[b][e] -> [be] 464
+[ha][ve ] -> [have ] 465
+[A][ ] -> [A ] 466
+[ m][y ] -> [ my ] 467
+[e][ar] -> [ear] 468
+[m][\n] -> [m\n] 469
+[on][e ] -> [one ] 470
+[R][EA] -> [REA] 471
+[s][t ] -> [st ] 472
+[a][d] -> [ad] 473
+[j][ust ] -> [just ] 474
+[i][d ] -> [id ] 475
+[,][ ] -> [, ] 476
+[w][hat ] -> [what ] 477
+[-][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [-<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 478
+[o][k] -> [ok] 479
+[E][\n] -> [E\n] 480
+[u][n] -> [un] 481
+[l][d ] -> [ld ] 482
+[th][at ] -> [that ] 483
+[I][T] -> [IT] 484
+[O][O] -> [OO] 485
+[E][S] -> [ES] 486
+[ s][t] -> [ st] 487
+[c][u] -> [cu] 488
+[ar][e ] -> [are ] 489
+[n][a ] -> [na ] 490
+[ ][you] -> [ you] 491
+[ ][T] -> [ T] 492
+[igh][t ] -> [ight ] 493
+[o][p] -> [op] 494
+[on][g] -> [ong] 495
+[ ][k] -> [ k] 496
+[it]['s ] -> [it's ] 497
+[a][c] -> [ac] 498
+[wa][s ] -> [was ] 499
+[n][a] -> [na] 500
+[in][k] -> [ink] 501
+[th][er] -> [ther] 502
+[h][e ] -> [he ] 503
+[A][M] -> [AM] 504
+[ ][a ] -> [ a ] 505
+[d][o] -> [do] 506
+[i][l] -> [il] 507
+[s][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [s<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 508
+[t][w] -> [tw] 509
+[ ][of] -> [ of] 510
+[ ][is ] -> [ is ] 511
+[t][s ] -> [ts ] 512
+[ ][M] -> [ M] 513
+[t][r] -> [tr] 514
+[C][K] -> [CK] 515
+[bu][t ] -> [but ] 516
+[i][nd] -> [ind] 517
+[m][o] -> [mo] 518
+[a][s] -> [as] 519
+[\n][I ] -> [\nI ] 520
+[d][on] -> [don] 521
+[y][a] -> [ya] 522
+[ ][in] -> [ in] 523
+[f][r] -> [fr] 524
+[y][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [y<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 525
+[N][O] -> [NO] 526
+[l][u] -> [lu] 527
+[it][\n] -> [it\n] 528
+[w][ha] -> [wha] 529
+[b][o] -> [bo] 530
+[ing][\n] -> [ing\n] 531
+[REA][L] -> [REAL] 532
+[.][\n] -> [.\n] 533
+[ou][t ] -> [out ] 534
+[b][e ] -> [be ] 535
+[g][h] -> [gh] 536
+[a][y ] -> [ay ] 537
+[W][A] -> [WA] 538
+[ s][e] -> [ se] 539
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][s] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>s] 540
+[oo][k] -> [ook] 541
+[M][A] -> [MA] 542
+[ ][A] -> [ A] 543
+[l][y ] -> [ly ] 544
+[a][b] -> [ab] 545
+[b][r] -> [br] 546
+[o][\n] -> [o\n] 547
+[y][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [y<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 548
+[cu][z] -> [cuz] 549
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][I] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>I] 550
+[p][la] -> [pla] 551
+[n][v] -> [nv] 552
+[ w][h] -> [ wh] 553
+[U][S] -> [US] 554
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][W] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>W] 555
+[e][m] -> [em] 556
+[an][ ] -> [an ] 557
+[t][yler] -> [tyler] 558
+[s][t] -> [st] 559
+[p][l] -> [pl] 560
+[I][G] -> [IG] 561
+[e][x] -> [ex] 562
+[ti][on] -> [tion] 563
+[am][e ] -> [ame ] 564
+[R][A] -> [RA] 565
+[to][ ] -> [to ] 566
+[a][g] -> [ag] 567
+[f][u] -> [fu] 568
+[ ][D] -> [ D] 569
+[G][O] -> [GO] 570
+[d][\n] -> [d\n] 571
+[d][o ] -> [do ] 572
+[w][ith] -> [with] 573
+[e][ll] -> [ell] 574
+[y][ s] -> [y s] 575
+[OM][G] -> [OMG] 576
+[al][r] -> [alr] 577
+[S][T] -> [ST] 578
+[ m][e ] -> [ me ] 579
+[all][y ] -> [ally ] 580
+[e][ver] -> [ever] 581
+[er][e ] -> [ere ] 582
+[a][s ] -> [as ] 583
+[I][T ] -> [IT ] 584
+[d][i] -> [di] 585
+[v][en] -> [ven] 586
+['][S ] -> ['S ] 587
+[ou][ld ] -> [ould ] 588
+[ ][I ] -> [ I ] 589
+[e][y ] -> [ey ] 590
+[u][m] -> [um] 591
+[go][t ] -> [got ] 592
+[L][I] -> [LI] 593
+[me][an] -> [mean] 594
+[t][u] -> [tu] 595
+[ ][r] -> [ r] 596
+[U][R] -> [UR] 597
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][i ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>i ] 598
+[es][\n] -> [es\n] 599
+[s][e ] -> [se ] 600
+[A][R] -> [AR] 601
+[s][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [s<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 602
+[S][\n] -> [S\n] 603
+[n][o ] -> [no ] 604
+[g][u] -> [gu] 605
+[c][e ] -> [ce ] 606
+[d][a] -> [da] 607
+[k][\n] -> [k\n] 608
+[c][om] -> [com] 609
+[an][y] -> [any] 610
+[ING][ ] -> [ING ] 611
+[y][ea] -> [yea] 612
+[D][\n] -> [D\n] 613
+[TH][A] -> [THA] 614
+[re][am] -> [ream] 615
+[th][at] -> [that] 616
+[h][ow] -> [how] 617
+[AN][D ] -> [AND ] 618
+[y][s ] -> [ys ] 619
+[q][u] -> [qu] 620
+[o][l] -> [ol] 621
+[A][L] -> [AL] 622
+[ ][on] -> [ on] 623
+[E][D ] -> [ED ] 624
+[h][\n] -> [h\n] 625
+[real][\n] -> [real\n] 626
+[i][ s] -> [i s] 627
+[I]['] -> [I'] 628
+[H][O] -> [HO] 629
+[n][g] -> [ng] 630
+[e][ss] -> [ess] 631
+[t][t] -> [tt] 632
+[ed][\n] -> [ed\n] 633
+[ th][at ] -> [ that ] 634
+[R][O] -> [RO] 635
+[on][na ] -> [onna ] 636
+[ b][e] -> [ be] 637
+[ ][B] -> [ B] 638
+[don]['t ] -> [don't ] 639
+[ s][o ] -> [ so ] 640
+[F][U] -> [FU] 641
+[t][f] -> [tf] 642
+[te][d ] -> [ted ] 643
+[wa][it ] -> [wait ] 644
+[e]['s ] -> [e's ] 645
+[li][k] -> [lik] 646
+[ ][j] -> [ j] 647
+[b][tw] -> [btw] 648
+[e][c] -> [ec] 649
+[a][x] -> [ax] 650
+[g][oo] -> [goo] 651
+[ s][ush] -> [ sush] 652
+[s][a] -> [sa] 653
+[b][ro] -> [bro] 654
+[th][is ] -> [this ] 655
+[C][H] -> [CH] 656
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][T] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>T] 657
+[in][ ] -> [in ] 658
+[L][E] -> [LE] 659
+[k][now] -> [know] 660
+[ow][n] -> [own] 661
+[o][ll] -> [oll] 662
+[r][e ] -> [re ] 663
+[D][I] -> [DI] 664
+[F][ ] -> [F ] 665
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][i ] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>i ] 666
+[er][m\n] -> [erm\n] 667
+[an][g] -> [ang] 668
+[I][R] -> [IR] 669
+[nv][m] -> [nvm] 670
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][S] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>S] 671
+[al][so ] -> [also ] 672
+[ba][ck] -> [back] 673
+[h][h] -> [hh] 674
+[g][a] -> [ga] 675
+[N][A] -> [NA] 676
+[T][O ] -> [TO ] 677
+[Y][\n] -> [Y\n] 678
+[ c][an] -> [ can] 679
+[c][ra] -> [cra] 680
+[u][ ] -> [u ] 681
+[w][an] -> [wan] 682
+[L][A] -> [LA] 683
+[O][H] -> [OH] 684
+[ g][o] -> [ go] 685
+[n][am] -> [nam] 686
+[ s][ha] -> [ sha] 687
+[al][k] -> [alk] 688
+[L][O] -> [LO] 689
+[w][e ] -> [we ] 690
+[wh][en] -> [when] 691
+[ u][r] -> [ ur] 692
+[oh][n] -> [ohn] 693
+[V][E ] -> [VE ] 694
+[ ][W] -> [ W] 695
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][I ] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>I ] 696
+[G][E] -> [GE] 697
+[ b][e ] -> [ be ] 698
+[ ][is] -> [ is] 699
+[h][er] -> [her] 700
+[S][H] -> [SH] 701
+[ ][it ] -> [ it ] 702
+[i][\n] -> [i\n] 703
+[uh][\n] -> [uh\n] 704
+[th][ink] -> [think] 705
+[ir][l] -> [irl] 706
+[br][o ] -> [bro ] 707
+[g][et ] -> [get ] 708
+[b][er] -> [ber] 709
+[a][k] -> [ak] 710
+[u][t ] -> [ut ] 711
+[it][s ] -> [its ] 712
+[u][ch] -> [uch] 713
+[e][ven] -> [even] 714
+[ w][hat ] -> [ what ] 715
+[in][e ] -> [ine ] 716
+[ ][for] -> [ for] 717
+[w][or] -> [wor] 718
+[t]['s ] -> [t's ] 719
+[m][or] -> [mor] 720
+[c][or] -> [cor] 721
+[n]['t ] -> [n't ] 722
+[y][k] -> [yk] 723
+[ou][nd] -> [ound] 724
+[v][i] -> [vi] 725
+[ou][gh] -> [ough] 726
+[igh][t\n] -> [ight\n] 727
+[IG][H] -> [IGH] 728
+[real][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [real<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 729
+[a][ke ] -> [ake ] 730
+[I][T\n] -> [IT\n] 731
+[E][E] -> [EE] 732
+[e][y] -> [ey] 733
+[p][o] -> [po] 734
+[ ][C] -> [ C] 735
+[P][EA] -> [PEA] 736
+[om][e ] -> [ome ] 737
+[it][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [it<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 738
+[Y][OU] -> [YOU] 739
+[o][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [o<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 740
+[.][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [.<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 741
+[I][M] -> [IM] 742
+[c][ha] -> [cha] 743
+[V][ER] -> [VER] 744
+[U][P] -> [UP] 745
+[c][a] -> [ca] 746
+[ m][e] -> [ me] 747
+[wh][y ] -> [why ] 748
+[a][ss] -> [ass] 749
+[S][O ] -> [SO ] 750
+[to][p] -> [top] 751
+[d][e] -> [de] 752
+[PEA][K] -> [PEAK] 753
+[c][o] -> [co] 754
+[ti][ll] -> [till] 755
+[om][e] -> [ome] 756
+[l][ook] -> [look] 757
+[o][ther] -> [other] 758
+[any][wa] -> [anywa] 759
+[EA][R] -> [EAR] 760
+[TH][IS ] -> [THIS ] 761
+[u][d] -> [ud] 762
+[d][id ] -> [did ] 763
+[F][A] -> [FA] 764
+[th][en] -> [then] 765
+[i][ma] -> [ima] 766
+[ w][ith] -> [ with] 767
+[us][e ] -> [use ] 768
+[ g][et ] -> [ get ] 769
+[ ][and] -> [ and] 770
+[E][M] -> [EM] 771
+[FU][CK] -> [FUCK] 772
+[HA][T ] -> [HAT ] 773
+[A][LL] -> [ALL] 774
+[fu][ck] -> [fuck] 775
+[F][OR] -> [FOR] 776
+['][re ] -> ['re ] 777
+[.][ ] -> [. ] 778
+[\n][T] -> [\nT] 779
+[.][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [.<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 780
+[M][Y ] -> [MY ] 781
+[ d][o ] -> [ do ] 782
+[\ns][o ] -> [\nso ] 783
+[i][ve ] -> [ive ] 784
+[ou][r] -> [our] 785
+[i'm][a ] -> [i'ma ] 786
+[K][E ] -> [KE ] 787
+[ed ][to] -> [ed to] 788
+[en][t ] -> [ent ] 789
+[p][ro] -> [pro] 790
+[\n][S] -> [\nS] 791
+[oo][l] -> [ool] 792
+[p][er] -> [per] 793
+[\n][B] -> [\nB] 794
+[i][te] -> [ite] 795
+[ ][y] -> [ y] 796
+[you][r] -> [your] 797
+[t][ch] -> [tch] 798
+[IN][ ] -> [IN ] 799
+[W][H] -> [WH] 800
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][s] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>s] 801
+[er][ver] -> [erver] 802
+[n][ig] -> [nig] 803
+[f][e] -> [fe] 804
+[a][te] -> [ate] 805
+[a][d ] -> [ad ] 806
+[\"][\n] -> [\"\n] 807
+[E][L] -> [EL] 808
+[g][o ] -> [go ] 809
+[t][ter] -> [tter] 810
+[te][n] -> [ten] 811
+[na][h] -> [nah] 812
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][REAL] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>REAL] 813
+[j][o] -> [jo] 814
+[y][ing ] -> [ying ] 815
+[ th][en] -> [ then] 816
+[te][ll] -> [tell] 817
+[THA][T ] -> [THAT ] 818
+[I][D] -> [ID] 819
+[ti][m] -> [tim] 820
+[W][ ] -> [W ] 821
+[a][t\n] -> [at\n] 822
+[ ][l] -> [ l] 823
+[d][id] -> [did] 824
+[ea][s] -> [eas] 825
+[le][m] -> [lem] 826
+[ s][m] -> [ sm] 827
+[E][S ] -> [ES ] 828
+[w][ear] -> [wear] 829
+[ d][o] -> [ do] 830
+[ha][pp] -> [happ] 831
+[\ns][up] -> [\nsup] 832
+[r][u] -> [ru] 833
+[g][e] -> [ge] 834
+[oll][ow] -> [ollow] 835
+[s][o] -> [so] 836
+[p][\n] -> [p\n] 837
+[ne][w] -> [new] 838
+[i][on] -> [ion] 839
+[p][e] -> [pe] 840
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][H] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>H] 841
+[R][I] -> [RI] 842
+[th][ey ] -> [they ] 843
+[O][\n] -> [O\n] 844
+[that]['s ] -> [that's ] 845
+[ ][not ] -> [ not ] 846
+[A][T] -> [AT] 847
+[y][s\n] -> [ys\n] 848
+[d][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [d<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 849
+[w][ill] -> [will] 850
+[is][h] -> [ish] 851
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][N] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>N] 852
+[ t][yler] -> [ tyler] 853
+[c][ya] -> [cya] 854
+[er][m] -> [erm] 855
+[er][\n] -> [er\n] 856
+[s][e] -> [se] 857
+[ea][t ] -> [eat ] 858
+[I'][M] -> [I'M] 859
+[lik][e\n] -> [like\n] 860
+[P][P] -> [PP] 861
+[ ][re] -> [ re] 862
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][oh] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>oh] 863
+[ ][G] -> [ G] 864
+[ab][out ] -> [about ] 865
+[ k][n] -> [ kn] 866
+[ a][b] -> [ ab] 867
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][Y] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Y] 868
+[ p][la] -> [ pla] 869
+[lu][k] -> [luk] 870
+[ra][pp] -> [rapp] 871
+[ou][l] -> [oul] 872
+[es][t ] -> [est ] 873
+[a][in] -> [ain] 874
+[ st][ream] -> [ stream] 875
+[h][o] -> [ho] 876
+[ha][s ] -> [has ] 877
+[ g][onna ] -> [ gonna ] 878
+[fr][om] -> [from] 879
+[N][E] -> [NE] 880
+[th][ing ] -> [thing ] 881
+[ER][ ] -> [ER ] 882
+[i][k] -> [ik] 883
+[u][ck] -> [uck] 884
+[wh][o ] -> [who ] 885
+[a][h] -> [ah] 886
+[wa][tch] -> [watch] 887
+[O][S] -> [OS] 888
+[a][ck] -> [ack] 889
+[ ][or] -> [ or] 890
+[an][\n] -> [an\n] 891
+[c][hat ] -> [chat ] 892
+[in][ the ] -> [in the ] 893
+[ th][is ] -> [ this ] 894
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>s][up] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>sup] 895
+[f][a] -> [fa] 896
+[ing][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ing<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 897
+[ ][H] -> [ H] 898
+[\n][I] -> [\nI] 899
+[can]['t ] -> [can't ] 900
+[GE][T ] -> [GET ] 901
+[y][s] -> [ys] 902
+[ch][e] -> [che] 903
+[ollow][ kn] -> [ollow kn] 904
+[t][alk] -> [talk] 905
+[d][e ] -> [de ] 906
+[P][L] -> [PL] 907
+[am][n] -> [amn] 908
+[c][on] -> [con] 909
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][B] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>B] 910
+[g][ng] -> [gng] 911
+[i s][wear] -> [i swear] 912
+[y][m] -> [ym] 913
+[j][ohn] -> [john] 914
+[li][ma] -> [lima] 915
+[g][am] -> [gam] 916
+[ba][s] -> [bas] 917
+[o][b] -> [ob] 918
+[T][yler] -> [Tyler] 919
+[peak][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [peak<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 920
+[ri][end] -> [riend] 921
+[ok][a] -> [oka] 922
+[lo][ve ] -> [love ] 923
+[i][ch] -> [ich] 924
+[es][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [es<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 925
+[T][T] -> [TT] 926
+[on][ly ] -> [only ] 927
+[ ][O] -> [ O] 928
+[v][an] -> [van] 929
+[C][AN] -> [CAN] 930
+[ ][I] -> [ I] 931
+[s][up] -> [sup] 932
+[fte][r] -> [fter] 933
+[ w][ha] -> [ wha] 934
+[i][ sa] -> [i sa] 935
+[peak][\n] -> [peak\n] 936
+[the ][s] -> [the s] 937
+[ush][i ] -> [ushi ] 938
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][O] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>O] 939
+['][ll] -> ['ll] 940
+[ima][g] -> [imag] 941
+[y][e] -> [ye] 942
+[h][ear] -> [hear] 943
+[ h][e ] -> [ he ] 944
+[le][t ] -> [let ] 945
+[n][t ] -> [nt ] 946
+[i][ck] -> [ick] 947
+[w][e] -> [we] 948
+[ing ][to] -> [ing to] 949
+[goo][d ] -> [good ] 950
+[E][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [E<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 951
+[ se][e ] -> [ see ] 952
+[el][f] -> [elf] 953
+[s][k] -> [sk] 954
+[I][LL] -> [ILL] 955
+[ h][ow] -> [ how] 956
+[g][onna ] -> [gonna ] 957
+[\n][A] -> [\nA] 958
+[pla][y ] -> [play ] 959
+[is][ s] -> [is s] 960
+[E][D] -> [ED] 961
+[h][ar] -> [har] 962
+[do][es ] -> [does ] 963
+[ti][x] -> [tix] 964
+[lem][me ] -> [lemme ] 965
+[S][A] -> [SA] 966
+[\"][ ] -> [\" ] 967
+[pl][an] -> [plan] 968
+[i][z] -> [iz] 969
+[f][in] -> [fin] 970
+[cra][z] -> [craz] 971
+[ac][tu] -> [actu] 972
+[me][m] -> [mem] 973
+[ever][y] -> [every] 974
+[Y][L] -> [YL] 975
+[ w][as ] -> [ was ] 976
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][A] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>A] 977
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][L] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>L] 978
+[you][ ] -> [you ] 979
+[ u][p] -> [ up] 980
+[id][k] -> [idk] 981
+[ h][er] -> [ her] 982
+['][T ] -> ['T ] 983
+[f][f] -> [ff] 984
+[I][L] -> [IL] 985
+[NO][T ] -> [NOT ] 986
+[ING][\n] -> [ING\n] 987
+[u][re] -> [ure] 988
+[ti][me ] -> [time ] 989
+[a][\n] -> [a\n] 990
+[)][\n] -> [)\n] 991
+[wa][it\n] -> [wait\n] 992
+[m][in] -> [min] 993
+[B][A] -> [BA] 994
+[ th][ink] -> [ think] 995
+[nv][m\n] -> [nvm\n] 996
+[if][ u] -> [if u] 997
+[o][nd] -> [ond] 998
+[o][ver] -> [over] 999
+[re][ad] -> [read] 1000
+[an][y ] -> [any ] 1001
+[ne][ver] -> [never] 1002
+[r][y ] -> [ry ] 1003
+[i'][ll] -> [i'll] 1004
+[y][a ] -> [ya ] 1005
+[ ][and ] -> [ and ] 1006
+[ g][u] -> [ gu] 1007
+[e][z] -> [ez] 1008
+[ur][e ] -> [ure ] 1009
+[R][O ] -> [RO ] 1010
+[ ][P] -> [ P] 1011
+[on]['t ] -> [on't ] 1012
+[ you][r] -> [ your] 1013
+[E][C] -> [EC] 1014
+[m][a ] -> [ma ] 1015
+[J][US] -> [JUS] 1016
+[F][R] -> [FR] 1017
+[a][ir] -> [air] 1018
+[e][ya] -> [eya] 1019
+[D][O] -> [DO] 1020
+[for][ ] -> [for ] 1021
+[c][all] -> [call] 1022
+[w][ell] -> [well] 1023
+[ M][Y ] -> [ MY ] 1024
+[ w][a] -> [ wa] 1025
+[ha][d ] -> [had ] 1026
+[T][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [T<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1027
+[to][o ] -> [too ] 1028
+[bas][ic] -> [basic] 1029
+[NA][UR] -> [NAUR] 1030
+[ th][at] -> [ that] 1031
+[ d][i] -> [ di] 1032
+[h][e] -> [he] 1033
+[\n][and] -> [\nand] 1034
+[k][e] -> [ke] 1035
+[h][is ] -> [his ] 1036
+[of][f] -> [off] 1037
+[bo][ss] -> [boss] 1038
+[ ][n] -> [ n] 1039
+[alr][ be] -> [alr be] 1040
+[wan][na ] -> [wanna ] 1041
+[th][ing] -> [thing] 1042
+[T][F] -> [TF] 1043
+[i][o] -> [io] 1044
+[U][ ] -> [U ] 1045
+[S][W] -> [SW] 1046
+[s][ong] -> [song] 1047
+[I][C] -> [IC] 1048
+[che][ck] -> [check] 1049
+[D][A] -> [DA] 1050
+[GO][T ] -> [GOT ] 1051
+[IT]['S ] -> [IT'S ] 1052
+[JUS][T ] -> [JUST ] 1053
+[as][k] -> [ask] 1054
+[y][o ] -> [yo ] 1055
+[d][er] -> [der] 1056
+[don][t ] -> [dont ] 1057
+[ a][t ] -> [ at ] 1058
+[LI][KE ] -> [LIKE ] 1059
+[of][ ] -> [of ] 1060
+[happ][en] -> [happen] 1061
+[ k][now] -> [ know] 1062
+[ w][an] -> [ wan] 1063
+[ ][like ] -> [ like ] 1064
+[G][OO] -> [GOO] 1065
+[no][\n] -> [no\n] 1066
+[f][un] -> [fun] 1067
+[u][l] -> [ul] 1068
+[ m][o] -> [ mo] 1069
+[mem][ber] -> [member] 1070
+[b][l] -> [bl] 1071
+[ sh][e ] -> [ she ] 1072
+[yea][h] -> [yeah] 1073
+[mor][e ] -> [more ] 1074
+[f][ir] -> [fir] 1075
+[ok][ay ] -> [okay ] 1076
+[ ][v] -> [ v] 1077
+[s][ha] -> [sha] 1078
+[OO][K] -> [OOK] 1079
+[of][ the ] -> [of the ] 1080
+[uh][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [uh<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1081
+[tr][us] -> [trus] 1082
+[ d][e] -> [ de] 1083
+[ s][p] -> [ sp] 1084
+[g][irl] -> [girl] 1085
+[ b][o] -> [ bo] 1086
+[I][S] -> [IS] 1087
+[wha][t\n] -> [what\n] 1088
+[r][o ] -> [ro ] 1089
+[U][N] -> [UN] 1090
+[go][on] -> [goon] 1091
+[ic][e ] -> [ice ] 1092
+[ou][t\n] -> [out\n] 1093
+[\n][H] -> [\nH] 1094
+[id][e] -> [ide] 1095
+[le][ep] -> [leep] 1096
+[op][le ] -> [ople ] 1097
+[t][y] -> [ty] 1098
+[HA][VE ] -> [HAVE ] 1099
+[t][ri] -> [tri] 1100
+[d][own] -> [down] 1101
+[h][im] -> [him] 1102
+[L][U] -> [LU] 1103
+[c][re] -> [cre] 1104
+[s][p] -> [sp] 1105
+[TH][E] -> [THE] 1106
+[ro][b] -> [rob] 1107
+[ f][r] -> [ fr] 1108
+[ ][ch] -> [ ch] 1109
+[l][ea] -> [lea] 1110
+[mo][st ] -> [most ] 1111
+[ed][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ed<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1112
+[e][ir] -> [eir] 1113
+[b][y ] -> [by ] 1114
+[M][E ] -> [ME ] 1115
+[g][\n] -> [g\n] 1116
+[T][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [T<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1117
+[AR][E ] -> [ARE ] 1118
+[m][uch] -> [much] 1119
+[d][amn] -> [damn] 1120
+[w][ould ] -> [would ] 1121
+[a][w] -> [aw] 1122
+[B][U] -> [BU] 1123
+[i][v] -> [iv] 1124
+[a][f] -> [af] 1125
+[oul][d] -> [ould] 1126
+[at][ch] -> [atch] 1127
+[id][\n] -> [id\n] 1128
+[WA][S ] -> [WAS ] 1129
+[i][le ] -> [ile ] 1130
+[ ][(] -> [ (] 1131
+[m][on] -> [mon] 1132
+[l][in] -> [lin] 1133
+[E][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [E<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1134
+[i][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [i<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1135
+[OMG][\n] -> [OMG\n] 1136
+[\nW][A] -> [\nWA] 1137
+[j][s ] -> [js ] 1138
+[ m][e\n] -> [ me\n] 1139
+[i][an] -> [ian] 1140
+[gu][ess] -> [guess] 1141
+[k][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [k<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1142
+[I][TH] -> [ITH] 1143
+[li][gh] -> [ligh] 1144
+[T]['S ] -> [T'S ] 1145
+[li][f] -> [lif] 1146
+[:][\n] -> [:\n] 1147
+[u][ can] -> [u can] 1148
+[c][ook] -> [cook] 1149
+[:][(] -> [:(] 1150
+[igh][t] -> [ight] 1151
+[ES][\n] -> [ES\n] 1152
+[A][S] -> [AS] 1153
+[th][is] -> [this] 1154
+[i ][mean] -> [i mean] 1155
+[p][h] -> [ph] 1156
+[E][LL] -> [ELL] 1157
+[m][ar] -> [mar] 1158
+[in][\n] -> [in\n] 1159
+[l][ma] -> [lma] 1160
+[el][p] -> [elp] 1161
+[ ][THE ] -> [ THE ] 1162
+[f][riend] -> [friend] 1163
+[ sm][th] -> [ smth] 1164
+[w][tf] -> [wtf] 1165
+[HO][W] -> [HOW] 1166
+[ma][ke ] -> [make ] 1167
+[US][H] -> [USH] 1168
+[ ][no] -> [ no] 1169
+[g][re] -> [gre] 1170
+[ sush][i ] -> [ sushi ] 1171
+[d][is] -> [dis] 1172
+[f][ax] -> [fax] 1173
+[ ][im] -> [ im] 1174
+[ w][e ] -> [ we ] 1175
+[IGH][T ] -> [IGHT ] 1176
+[ a][c] -> [ ac] 1177
+[ c][ha] -> [ cha] 1178
+[YL][ER] -> [YLER] 1179
+[ ][lo] -> [ lo] 1180
+[g][ame ] -> [game ] 1181
+[it][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [it<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1182
+[h][ollow kn] -> [hollow kn] 1183
+[\n][and ] -> [\nand ] 1184
+[ wh][y ] -> [ why ] 1185
+[a][ch] -> [ach] 1186
+[ c][om] -> [ com] 1187
+[s][u] -> [su] 1188
+[T][I] -> [TI] 1189
+[ wh][en] -> [ when] 1190
+[s ][to] -> [s to] 1191
+[c][i] -> [ci] 1192
+[EA][N] -> [EAN] 1193
+[L][M] -> [LM] 1194
+[r][y] -> [ry] 1195
+[y][es] -> [yes] 1196
+[ sa][y ] -> [ say ] 1197
+[NO][W] -> [NOW] 1198
+[r][ong] -> [rong] 1199
+[a][fter] -> [after] 1200
+[k][ill] -> [kill] 1201
+[E][X] -> [EX] 1202
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][\"] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>\"] 1203
+[ ][F] -> [ F] 1204
+[ ][i'm] -> [ i'm] 1205
+[a ][b] -> [a b] 1206
+[N][o] -> [No] 1207
+[d][ea] -> [dea] 1208
+[ON][E ] -> [ONE ] 1209
+[van][nah] -> [vannah] 1210
+[in][ce ] -> [ince ] 1211
+[!][\n] -> [!\n] 1212
+[a][ s] -> [a s] 1213
+[L][Y ] -> [LY ] 1214
+[SW][EAR] -> [SWEAR] 1215
+[p][r] -> [pr] 1216
+[L][MA] -> [LMA] 1217
+[R][U] -> [RU] 1218
+[ m][ake ] -> [ make ] 1219
+[nig][ga] -> [nigga] 1220
+[p][a] -> [pa] 1221
+[ s][ome ] -> [ some ] 1222
+[E][D\n] -> [ED\n] 1223
+[C][RA] -> [CRA] 1224
+[ a][s ] -> [ as ] 1225
+[p][ar] -> [par] 1226
+[ag][e ] -> [age ] 1227
+[O][F ] -> [OF ] 1228
+[en][g] -> [eng] 1229
+[anywa][ys\n] -> [anyways\n] 1230
+[OM][L] -> [OML] 1231
+[p][re] -> [pre] 1232
+[is][ten] -> [isten] 1233
+[G][A] -> [GA] 1234
+[wh][ich] -> [which] 1235
+[ON][G] -> [ONG] 1236
+[jo][in] -> [join] 1237
+[es][e ] -> [ese ] 1238
+[ m][in] -> [ min] 1239
+[m][b] -> [mb] 1240
+[oo][d ] -> [ood ] 1241
+[on][\n] -> [on\n] 1242
+[on][e\n] -> [one\n] 1243
+[or][e ] -> [ore ] 1244
+[R][E] -> [RE] 1245
+[on][t ] -> [ont ] 1246
+[sh][e ] -> [she ] 1247
+[HA][T\n] -> [HAT\n] 1248
+[imag][ine ] -> [imagine ] 1249
+[g][ive ] -> [give ] 1250
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][im] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>im] 1251
+[c][ar] -> [car] 1252
+[wa][y ] -> [way ] 1253
+[i][x] -> [ix] 1254
+[il][k] -> [ilk] 1255
+[E][VER] -> [EVER] 1256
+[H][H] -> [HH] 1257
+[B][RO] -> [BRO] 1258
+[Y][M] -> [YM] 1259
+[LM][FA] -> [LMFA] 1260
+[d][ay ] -> [day ] 1261
+[L][D ] -> [LD ] 1262
+[HA][R] -> [HAR] 1263
+[y][es ] -> [yes ] 1264
+[g][t] -> [gt] 1265
+[ ][al] -> [ al] 1266
+[\nW][H] -> [\nWH] 1267
+[ w][ill] -> [ will] 1268
+[ a][x] -> [ ax] 1269
+[T][S ] -> [TS ] 1270
+[m][e\n] -> [me\n] 1271
+[ the ][s] -> [ the s] 1272
+[ne][ed ] -> [need ] 1273
+[g][g] -> [gg] 1274
+[y][ing] -> [ying] 1275
+[ha][v] -> [hav] 1276
+[p][or] -> [por] 1277
+[oh][ ] -> [oh ] 1278
+[for][got ] -> [forgot ] 1279
+[igh][t<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ight<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1280
+[i][b] -> [ib] 1281
+[f][p] -> [fp] 1282
+[\ni ][mean] -> [\ni mean] 1283
+[all][y\n] -> [ally\n] 1284
+[ough][t ] -> [ought ] 1285
+[T][he ] -> [The ] 1286
+[lo][x] -> [lox] 1287
+[qu][es] -> [ques] 1288
+[k][ind] -> [kind] 1289
+[d][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [d<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1290
+[N][A ] -> [NA ] 1291
+[TH][ER] -> [THER] 1292
+[wan][t ] -> [want ] 1293
+[t][s\n] -> [ts\n] 1294
+[AM][E ] -> [AME ] 1295
+[T][O] -> [TO] 1296
+[all][ ] -> [all ] 1297
+[v][o] -> [vo] 1298
+[fe][el] -> [feel] 1299
+[re][member] -> [remember] 1300
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][I ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>I ] 1301
+[actu][ally ] -> [actually ] 1302
+[:][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [:<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1303
+[ to][ ] -> [ to ] 1304
+[a][tion] -> [ation] 1305
+[N][IG] -> [NIG] 1306
+[EN][ ] -> [EN ] 1307
+[a][i ] -> [ai ] 1308
+[ye][a ] -> [yea ] 1309
+[A][C] -> [AC] 1310
+[ b][ack] -> [ back] 1311
+[g][ra] -> [gra] 1312
+[z][z] -> [zz] 1313
+[g][r] -> [gr] 1314
+[ar][m] -> [arm] 1315
+[ou][n] -> [oun] 1316
+[N][O ] -> [NO ] 1317
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][real\n] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>real\n] 1318
+[an][k] -> [ank] 1319
+[s][elf] -> [self] 1320
+[u][ d] -> [u d] 1321
+[h][e's ] -> [he's ] 1322
+[r][n] -> [rn] 1323
+[w][ere ] -> [were ] 1324
+[in][s] -> [ins] 1325
+[la][ck] -> [lack] 1326
+[i ][can] -> [i can] 1327
+[a][y] -> [ay] 1328
+[is][\n] -> [is\n] 1329
+[ s][o] -> [ so] 1330
+[if][ i ] -> [if i ] 1331
+[t][ra] -> [tra] 1332
+[c][ya ] -> [cya ] 1333
+[g][e ] -> [ge ] 1334
+[S][HA] -> [SHA] 1335
+[p][i] -> [pi] 1336
+[ur][n] -> [urn] 1337
+[ w][atch] -> [ watch] 1338
+[be][tter] -> [better] 1339
+[th][at\n] -> [that\n] 1340
+[ u][h] -> [ uh] 1341
+[be][en] -> [been] 1342
+[l][ong] -> [long] 1343
+[ ab][out ] -> [ about ] 1344
+[ri][p] -> [rip] 1345
+[H][E ] -> [HE ] 1346
+[c][ool] -> [cool] 1347
+[ th][ey ] -> [ they ] 1348
+[have ][a ] -> [have a ] 1349
+[wh][ere ] -> [where ] 1350
+[ma][k] -> [mak] 1351
+[ sha][y\n] -> [ shay\n] 1352
+[ma][de ] -> [made ] 1353
+[i][p] -> [ip] 1354
+[le][f] -> [lef] 1355
+[m][ight ] -> [might ] 1356
+[v][el] -> [vel] 1357
+[id][e ] -> [ide ] 1358
+[m][om] -> [mom] 1359
+[tyler][\n] -> [tyler\n] 1360
+[I][D ] -> [ID ] 1361
+[E][V] -> [EV] 1362
+[p][c] -> [pc] 1363
+[real][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [real<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1364
+[ha][te] -> [hate] 1365
+[ c][on] -> [ con] 1366
+[c][e\n] -> [ce\n] 1367
+[rob][lox] -> [roblox] 1368
+[u][gh] -> [ugh] 1369
+[ w][or] -> [ wor] 1370
+[r][ight ] -> [right ] 1371
+[s][on] -> [son] 1372
+[Y][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [Y<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1373
+[igh][t<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [ight<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1374
+[to][ the ] -> [to the ] 1375
+[ ][just ] -> [ just ] 1376
+[\n][it's ] -> [\nit's ] 1377
+[f][ym] -> [fym] 1378
+[a][p] -> [ap] 1379
+[re][s] -> [res] 1380
+[g][a ] -> [ga ] 1381
+[D][O ] -> [DO ] 1382
+[D][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [D<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1383
+[t][ing ] -> [ting ] 1384
+[cha][t\n] -> [chat\n] 1385
+[ra][w] -> [raw] 1386
+[\n][but ] -> [\nbut ] 1387
+[wha][t<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [what<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1388
+[re][e ] -> [ree ] 1389
+[ ][e] -> [ e] 1390
+[l][ow] -> [low] 1391
+[REAL][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [REAL<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1392
+[ ][it's ] -> [ it's ] 1393
+[B][O] -> [BO] 1394
+[oka][y\n] -> [okay\n] 1395
+[al][read] -> [alread] 1396
+[pe][ople ] -> [people ] 1397
+[ b][ro] -> [ bro] 1398
+[A][nd] -> [And] 1399
+[nvm][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [nvm<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1400
+[ g][e] -> [ ge] 1401
+[WA][IT\n] -> [WAIT\n] 1402
+[u][s ] -> [us ] 1403
+[ T][O ] -> [ TO ] 1404
+[ s][ome] -> [ some] 1405
+[ g][o ] -> [ go ] 1406
+[tr][y ] -> [try ] 1407
+[ar][d] -> [ard] 1408
+[l][\n] -> [l\n] 1409
+[l][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [l<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1410
+[ b][u] -> [ bu] 1411
+[id][io] -> [idio] 1412
+[O][h] -> [Oh] 1413
+[GET ][OU] -> [GET OU] 1414
+[ist][an] -> [istan] 1415
+[le][ss] -> [less] 1416
+[W][HAT ] -> [WHAT ] 1417
+[alr be][t\n] -> [alr bet\n] 1418
+[e][-\n] -> [e-\n] 1419
+[n][ame ] -> [name ] 1420
+[ver][y ] -> [very ] 1421
+[l][e\n] -> [le\n] 1422
+[B][RO ] -> [BRO ] 1423
+[ sh][ould ] -> [ should ] 1424
+[M][EAN] -> [MEAN] 1425
+[ ][la] -> [ la] 1426
+[D][E] -> [DE] 1427
+[fir][st ] -> [first ] 1428
+[om][g] -> [omg] 1429
+[S][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [S<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1430
+[ h][im] -> [ him] 1431
+[ u][h\n] -> [ uh\n] 1432
+[THE][Y ] -> [THEY ] 1433
+[W][ha] -> [Wha] 1434
+[s][m] -> [sm] 1435
+[in][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [in<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1436
+[ex][am] -> [exam] 1437
+[wor][k] -> [work] 1438
+[ti][me] -> [time] 1439
+[D][D] -> [DD] 1440
+[S][T ] -> [ST ] 1441
+[\"][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [\"<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1442
+[it][ch] -> [itch] 1443
+[M][y ] -> [My ] 1444
+[ me][an] -> [ mean] 1445
+[com][e ] -> [come ] 1446
+[ ][now] -> [ now] 1447
+[T][W] -> [TW] 1448
+[REAL][\n] -> [REAL\n] 1449
+[yea][\n] -> [yea\n] 1450
+['][d ] -> ['d ] 1451
+[O][F] -> [OF] 1452
+[o][t ] -> [ot ] 1453
+[p][e ] -> [pe ] 1454
+[d][if] -> [dif] 1455
+[OU][N] -> [OUN] 1456
+[am][ond] -> [amond] 1457
+[ou][s] -> [ous] 1458
+[ch][ool] -> [chool] 1459
+[or][ ] -> [or ] 1460
+[can][ u] -> [can u] 1461
+[HA][T] -> [HAT] 1462
+[D][ON] -> [DON] 1463
+[ques][tion] -> [question] 1464
+[anywa][ys ] -> [anyways ] 1465
+[y][o] -> [yo] 1466
+[rapp][e ] -> [rappe ] 1467
+[a][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [a<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1468
+[I'][m] -> [I'm] 1469
+[ b][ut ] -> [ but ] 1470
+[be][ca] -> [beca] 1471
+[di][hh] -> [dihh] 1472
+[l][an] -> [lan] 1473
+[ ][IS ] -> [ IS ] 1474
+[u][z] -> [uz] 1475
+[G][U] -> [GU] 1476
+[W][h] -> [Wh] 1477
+[en][t] -> [ent] 1478
+[T][A] -> [TA] 1479
+[us][ic] -> [usic] 1480
+[ t][alk] -> [ talk] 1481
+[I][F] -> [IF] 1482
+[ax][eya] -> [axeya] 1483
+[B][E] -> [BE] 1484
+[ER][\n] -> [ER\n] 1485
+[E][Y] -> [EY] 1486
+[m][ind] -> [mind] 1487
+[ing][ m] -> [ing m] 1488
+[w][rong] -> [wrong] 1489
+[what ][is ] -> [what is ] 1490
+[do][es] -> [does] 1491
+[i][pp] -> [ipp] 1492
+[and][ then] -> [and then] 1493
+[\nW][HAT ] -> [\nWHAT ] 1494
+[d][y ] -> [dy ] 1495
+[ing][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [ing<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1496
+[ ][-] -> [ -] 1497
+[lu][ke ] -> [luke ] 1498
+[l][y\n] -> [ly\n] 1499
+[)][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [)<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1500
+[le][ar] -> [lear] 1501
+[I][m] -> [Im] 1502
+[pla][y] -> [play] 1503
+[fuck][ing ] -> [fucking ] 1504
+[ther][e ] -> [there ] 1505
+[s ][like ] -> [s like ] 1506
+[L][E ] -> [LE ] 1507
+[o][se ] -> [ose ] 1508
+[is][ the ] -> [is the ] 1509
+[let ][me ] -> [let me ] 1510
+[bro][\n] -> [bro\n] 1511
+[C][OM] -> [COM] 1512
+[P][eak] -> [Peak] 1513
+[an][n] -> [ann] 1514
+[oh][\n] -> [oh\n] 1515
+[e][k] -> [ek] 1516
+[f][ind] -> [find] 1517
+[ th][an] -> [ than] 1518
+[ra][te] -> [rate] 1519
+[nd][er] -> [nder] 1520
+[are ][u] -> [are u] 1521
+[ sha][y ] -> [ shay ] 1522
+[er][s ] -> [ers ] 1523
+[en][t\n] -> [ent\n] 1524
+[:][ ] -> [: ] 1525
+[Y][O ] -> [YO ] 1526
+[ke][ep] -> [keep] 1527
+[d][ream] -> [dream] 1528
+[T][U] -> [TU] 1529
+[y][es\n] -> [yes\n] 1530
+[did][n't ] -> [didn't ] 1531
+[ d][id ] -> [ did ] 1532
+[Q][U] -> [QU] 1533
+[s][till] -> [still] 1534
+[ s][ong] -> [ song] 1535
+[fr][\n] -> [fr\n] 1536
+[P][O] -> [PO] 1537
+[gt][g] -> [gtg] 1538
+[dif][f] -> [diff] 1539
+[tt][a ] -> [tta ] 1540
+[i ][have ] -> [i have ] 1541
+[goo][d] -> [good] 1542
+[ad][d] -> [add] 1543
+[ j][ohn] -> [ john] 1544
+[i ][was ] -> [i was ] 1545
+[it][y ] -> [ity ] 1546
+[u][te] -> [ute] 1547
+[ne][xt] -> [next] 1548
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][G] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>G] 1549
+[u][ff] -> [uff] 1550
+[ha][y ] -> [hay ] 1551
+[ep][t ] -> [ept ] 1552
+[s ][and] -> [s and] 1553
+[can][ i ] -> [can i ] 1554
+[or][r] -> [orr] 1555
+[h][ea] -> [hea] 1556
+[for][e ] -> [fore ] 1557
+[ th][is] -> [ this] 1558
+[ sush][i] -> [ sushi] 1559
+[h][elp] -> [help] 1560
+[E]['S ] -> [E'S ] 1561
+[ h][is ] -> [ his ] 1562
+[ d][own] -> [ down] 1563
+[ti][c] -> [tic] 1564
+[on][ ] -> [on ] 1565
+[t][a] -> [ta] 1566
+[ g][ng] -> [ gng] 1567
+[ush][i] -> [ushi] 1568
+[\n][i'm] -> [\ni'm] 1569
+[OU][T ] -> [OUT ] 1570
+[v][ro] -> [vro] 1571
+[ch][ang] -> [chang] 1572
+[o][ld ] -> [old ] 1573
+[am][ i ] -> [am i ] 1574
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>REAL][\n] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>REAL\n] 1575
+[ d][is] -> [ dis] 1576
+[kind][a ] -> [kinda ] 1577
+[e][al] -> [eal] 1578
+[tyler][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [tyler<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1579
+[cor][d ] -> [cord ] 1580
+[ st][up] -> [ stup] 1581
+[K][N] -> [KN] 1582
+[le][vel] -> [level] 1583
+[c][am] -> [cam] 1584
+[it ][was ] -> [it was ] 1585
+[basic][ally ] -> [basically ] 1586
+[P][LA] -> [PLA] 1587
+[D][E ] -> [DE ] 1588
+[i ][think] -> [i think] 1589
+[ wan][t ] -> [ want ] 1590
+[lo][ck] -> [lock] 1591
+[tim][e\n] -> [time\n] 1592
+[S][E] -> [SE] 1593
+[ ][if] -> [ if] 1594
+[ a][d] -> [ ad] 1595
+[ T][yler] -> [ Tyler] 1596
+[ r][ight\n] -> [ right\n] 1597
+[or][n] -> [orn] 1598
+[lo][ad] -> [load] 1599
+[\n][the ] -> [\nthe ] 1600
+[ s][erver] -> [ server] 1601
+[c][ame ] -> [came ] 1602
+[ ][us] -> [ us] 1603
+[le][te] -> [lete] 1604
+[back][\n] -> [back\n] 1605
+[wa][it] -> [wait] 1606
+[s ][are ] -> [s are ] 1607
+[)][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [)<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1608
+[c][la] -> [cla] 1609
+[a][pp] -> [app] 1610
+[G][AM] -> [GAM] 1611
+[ ][have ] -> [ have ] 1612
+[ s][leep] -> [ sleep] 1613
+[plan][e ] -> [plane ] 1614
+[ a][ss] -> [ ass] 1615
+[ey][a ] -> [eya ] 1616
+[u][\n] -> [u\n] 1617
+[ sush][i\n] -> [ sushi\n] 1618
+[Y][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [Y<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1619
+[F][IN] -> [FIN] 1620
+[ow][er] -> [ower] 1621
+[ob][i] -> [obi] 1622
+[l][y] -> [ly] 1623
+[f][\n] -> [f\n] 1624
+[ a][ir] -> [ air] 1625
+[te][xt] -> [text] 1626
+[ j][s ] -> [ js ] 1627
+[ sa][id ] -> [ said ] 1628
+[C][U] -> [CU] 1629
+[THE ][S] -> [THE S] 1630
+[O][P] -> [OP] 1631
+[ON][NA ] -> [ONNA ] 1632
+[h][ere ] -> [here ] 1633
+[af][k] -> [afk] 1634
+[!][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [!<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1635
+[d][w] -> [dw] 1636
+[te][m] -> [tem] 1637
+[LMFA][O] -> [LMFAO] 1638
+[\n][Y] -> [\nY] 1639
+[ p][ro] -> [ pro] 1640
+[re][as] -> [reas] 1641
+[W][N] -> [WN] 1642
+[v][ide] -> [vide] 1643
+[AM][N] -> [AMN] 1644
+[ES][S] -> [ESS] 1645
+[ ][L] -> [ L] 1646
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][D] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>D] 1647
+[l][isten] -> [listen] 1648
+[t][in] -> [tin] 1649
+[re][ad ] -> [read ] 1650
+[b][y] -> [by] 1651
+[an][s] -> [ans] 1652
+[ig][ma] -> [igma] 1653
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>W][ha] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Wha] 1654
+[u][e ] -> [ue ] 1655
+[for][go] -> [forgo] 1656
+[d][ud] -> [dud] 1657
+[ t][r] -> [ tr] 1658
+[ c][all] -> [ call] 1659
+[G][H] -> [GH] 1660
+[pro][b] -> [prob] 1661
+[ing][ the ] -> [ing the ] 1662
+[ fr][om] -> [ from] 1663
+[ s][till] -> [ still] 1664
+[BA][CK] -> [BACK] 1665
+[FUCK][ING ] -> [FUCKING ] 1666
+[er][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [er<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1667
+[ c][an ] -> [ can ] 1668
+[do ][u] -> [do u] 1669
+[ ][it] -> [ it] 1670
+[l][and] -> [land] 1671
+[ th][at\n] -> [ that\n] 1672
+[i'][ve ] -> [i've ] 1673
+[tt][ing ] -> [tting ] 1674
+[t][s] -> [ts] 1675
+[ang][nam] -> [angnam] 1676
+[in][ my ] -> [in my ] 1677
+[al][so] -> [also] 1678
+[T][IM] -> [TIM] 1679
+[this ][is ] -> [this is ] 1680
+[nig][ga ] -> [nigga ] 1681
+[F][YM] -> [FYM] 1682
+[FUCK][ING] -> [FUCKING] 1683
+[ f][e] -> [ fe] 1684
+[ou][s ] -> [ous ] 1685
+[s][ome] -> [some] 1686
+[ t][w] -> [ tw] 1687
+[wa][ys ] -> [ways ] 1688
+[\" ][\"] -> [\" \"] 1689
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>REAL][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>REAL<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1690
+[e\n][i ] -> [e\ni ] 1691
+[en][\n] -> [en\n] 1692
+[WA][IT ] -> [WAIT ] 1693
+[IT][S ] -> [ITS ] 1694
+[W][ITH] -> [WITH] 1695
+[is][s] -> [iss] 1696
+[s][o\n] -> [so\n] 1697
+[v][or] -> [vor] 1698
+[R][R] -> [RR] 1699
+[T][R] -> [TR] 1700
+[se][e ] -> [see ] 1701
+[ne][ed to] -> [need to] 1702
+[N][AM] -> [NAM] 1703
+[W][W] -> [WW] 1704
+[T][ED ] -> [TED ] 1705
+[com][p] -> [comp] 1706
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>T][yler] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Tyler] 1707
+[m][an] -> [man] 1708
+[!][ ] -> [! ] 1709
+[that][s ] -> [thats ] 1710
+[Y][EA] -> [YEA] 1711
+[ALL][Y ] -> [ALLY ] 1712
+[(][\n] -> [(\n] 1713
+[ER][E ] -> [ERE ] 1714
+[CRA][Z] -> [CRAZ] 1715
+[bo][e] -> [boe] 1716
+[P][A] -> [PA] 1717
+[S][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [S<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1718
+[it][t] -> [itt] 1719
+[alread][y ] -> [already ] 1720
+[R][E ] -> [RE ] 1721
+[ur][ ] -> [ur ] 1722
+[lima][y ] -> [limay ] 1723
+[en][s] -> [ens] 1724
+[na][il] -> [nail] 1725
+[ex][c] -> [exc] 1726
+[uh][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [uh<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1727
+[la][te] -> [late] 1728
+[ w][e] -> [ we] 1729
+[ sa][vannah] -> [ savannah] 1730
+[IN][K] -> [INK] 1731
+[T][F ] -> [TF ] 1732
+[Y][ING] -> [YING] 1733
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>I][m] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Im] 1734
+[U][M] -> [UM] 1735
+[ig][n] -> [ign] 1736
+[can][ ] -> [can ] 1737
+[ing][ s] -> [ing s] 1738
+[th][e] -> [the] 1739
+[ th][er] -> [ ther] 1740
+[EL][P] -> [ELP] 1741
+[li][m] -> [lim] 1742
+[ ][one ] -> [ one ] 1743
+[re][c] -> [rec] 1744
+[re][ally ] -> [really ] 1745
+[en][ough] -> [enough] 1746
+[L][OOK] -> [LOOK] 1747
+[LMA][O] -> [LMAO] 1748
+[or][\n] -> [or\n] 1749
+[th][\n] -> [th\n] 1750
+[h][ell] -> [hell] 1751
+[n][ight ] -> [night ] 1752
+[r][ight\n] -> [right\n] 1753
+[EA][S] -> [EAS] 1754
+[wha][t's ] -> [what's ] 1755
+[s][ome ] -> [some ] 1756
+[NO][\n] -> [NO\n] 1757
+[ S][T] -> [ ST] 1758
+[g][en] -> [gen] 1759
+[ th][em] -> [ them] 1760
+[ pla][y ] -> [ play ] 1761
+[ S][O ] -> [ SO ] 1762
+[al][e ] -> [ale ] 1763
+[le][s ] -> [les ] 1764
+[ in][ the ] -> [ in the ] 1765
+[es][t] -> [est] 1766
+[tw][o ] -> [two ] 1767
+[ed][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [ed<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1768
+[T][ER] -> [TER] 1769
+[ar][k] -> [ark] 1770
+[um][ber] -> [umber] 1771
+[c][r] -> [cr] 1772
+[\n][cuz] -> [\ncuz] 1773
+[ s][top] -> [ stop] 1774
+[lif][e ] -> [life ] 1775
+[ ][ar] -> [ ar] 1776
+[LU][K] -> [LUK] 1777
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][C] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>C] 1778
+[IGH][T\n] -> [IGHT\n] 1779
+[DI][D ] -> [DID ] 1780
+[y][s<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ys<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1781
+[ m][on] -> [ mon] 1782
+[ilk][song] -> [ilksong] 1783
+[S][UP] -> [SUP] 1784
+[A][B] -> [AB] 1785
+[OH][ ] -> [OH ] 1786
+[be][t\n] -> [bet\n] 1787
+[fun][n] -> [funn] 1788
+[ec][t ] -> [ect ] 1789
+[S][USH] -> [SUSH] 1790
+[l][ine ] -> [line ] 1791
+[B][E ] -> [BE ] 1792
+[y][ear] -> [year] 1793
+[th][r] -> [thr] 1794
+[ p][e] -> [ pe] 1795
+[b][all] -> [ball] 1796
+[EE][P] -> [EEP] 1797
+[PEAK][\n] -> [PEAK\n] 1798
+[ON][ ] -> [ON ] 1799
+[th][em] -> [them] 1800
+[go][ate] -> [goate] 1801
+[i][k\n] -> [ik\n] 1802
+[ se][e\n] -> [ see\n] 1803
+[b][eat ] -> [beat ] 1804
+[t][-\n] -> [t-\n] 1805
+[or][ry ] -> [orry ] 1806
+[wh][o] -> [who] 1807
+[all][ of] -> [all of] 1808
+[j][ok] -> [jok] 1809
+[Y ][IS ] -> [Y IS ] 1810
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][real<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>real<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1811
+[is ][a ] -> [is a ] 1812
+[THA][T'S ] -> [THAT'S ] 1813
+[luk][e\n] -> [luke\n] 1814
+[S][S] -> [SS] 1815
+[c][ol] -> [col] 1816
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>W][h] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Wh] 1817
+[tix][l] -> [tixl] 1818
+[ D][O] -> [ DO] 1819
+[K][ ] -> [K ] 1820
+[ch][ill] -> [chill] 1821
+[ g][ive ] -> [ give ] 1822
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][i'm] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>i'm] 1823
+[OU][R] -> [OUR] 1824
+[ag][ain] -> [again] 1825
+[la][ugh] -> [laugh] 1826
+[ th][eir] -> [ their] 1827
+[I][\n] -> [I\n] 1828
+[na][h\n] -> [nah\n] 1829
+[M][IN] -> [MIN] 1830
+[s ][of] -> [s of] 1831
+[st][al] -> [stal] 1832
+[re][d ] -> [red ] 1833
+[U][T ] -> [UT ] 1834
+[LL][O] -> [LLO] 1835
+[on][ce ] -> [once ] 1836
+[o][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [o<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1837
+[ f][ind] -> [ find] 1838
+[t][ak] -> [tak] 1839
+[el][y ] -> [ely ] 1840
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>W][hat ] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>What ] 1841
+[r][ep] -> [rep] 1842
+[ligh][t ] -> [light ] 1843
+[yea][h\n] -> [yeah\n] 1844
+[HA][PP] -> [HAPP] 1845
+[y][ipp] -> [yipp] 1846
+[ b][ro ] -> [ bro ] 1847
+[ ac][tu] -> [ actu] 1848
+[you][ know] -> [you know] 1849
+[ES][T ] -> [EST ] 1850
+[re][ak] -> [reak] 1851
+[\n][what ] -> [\nwhat ] 1852
+[ m][ore ] -> [ more ] 1853
+[ear][ch] -> [earch] 1854
+[ys][elf] -> [yself] 1855
+[k][id] -> [kid] 1856
+[sh][ould ] -> [should ] 1857
+[ ][an] -> [ an] 1858
+[go][ing ] -> [going ] 1859
+[J][OH] -> [JOH] 1860
+[beca][use ] -> [because ] 1861
+[f][ac] -> [fac] 1862
+[th][ing\n] -> [thing\n] 1863
+[e][w] -> [ew] 1864
+[ to][o ] -> [ too ] 1865
+[T][YLER] -> [TYLER] 1866
+[Y][Y] -> [YY] 1867
+[ u][n] -> [ un] 1868
+[\ns][h] -> [\nsh] 1869
+[o][te] -> [ote] 1870
+[ go][t ] -> [ got ] 1871
+[v][e\n] -> [ve\n] 1872
+[B][OS] -> [BOS] 1873
+[ri][zz] -> [rizz] 1874
+[ O][F ] -> [ OF ] 1875
+[to][ld ] -> [told ] 1876
+[JOH][N] -> [JOHN] 1877
+[\n][\"] -> [\n\"] 1878
+[bu][s ] -> [bus ] 1879
+[ic][e\n] -> [ice\n] 1880
+[i sa][w] -> [i saw] 1881
+[da][y\n] -> [day\n] 1882
+[\nW][TF] -> [\nWTF] 1883
+[pi][lo] -> [pilo] 1884
+[g][if] -> [gif] 1885
+[ h][ollow kn] -> [ hollow kn] 1886
+[m][y s] -> [my s] 1887
+[ c][uz] -> [ cuz] 1888
+[mak][es ] -> [makes ] 1889
+[es][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [es<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1890
+[s][ushi ] -> [sushi ] 1891
+[a][hh] -> [ahh] 1892
+[yk][ what ] -> [yk what ] 1893
+[on][na] -> [onna] 1894
+[EN][D] -> [END] 1895
+[FOR][ ] -> [FOR ] 1896
+[o][s] -> [os] 1897
+[ma][y] -> [may] 1898
+[B][EA] -> [BEA] 1899
+[does][n't ] -> [doesn't ] 1900
+[c][\n] -> [c\n] 1901
+[I][VE ] -> [IVE ] 1902
+[real][iz] -> [realiz] 1903
+[c][e] -> [ce] 1904
+[ d][a] -> [ da] 1905
+[AN][ ] -> [AN ] 1906
+[T][h] -> [Th] 1907
+[ ][te] -> [ te] 1908
+[\n][C] -> [\nC] 1909
+[ s][tar] -> [ star] 1910
+[and ][i ] -> [and i ] 1911
+[li][ck] -> [lick] 1912
+[K][ING] -> [KING] 1913
+[you]['re ] -> [you're ] 1914
+[th][ey] -> [they] 1915
+[ S][H] -> [ SH] 1916
+[ h][ear] -> [ hear] 1917
+[is][t ] -> [ist ] 1918
+[ st][ud] -> [ stud] 1919
+[ g][am] -> [ gam] 1920
+[d][en] -> [den] 1921
+[b][le ] -> [ble ] 1922
+[M][O] -> [MO] 1923
+[alr be][t<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [alr bet<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1924
+[t][ake ] -> [take ] 1925
+[th][ought ] -> [thought ] 1926
+[b][i] -> [bi] 1927
+[um][p] -> [ump] 1928
+[ex][pla] -> [expla] 1929
+[co][nd] -> [cond] 1930
+[W][hat ] -> [What ] 1931
+[ s][end] -> [ send] 1932
+[li][ter] -> [liter] 1933
+[craz][y<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [crazy<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1934
+[all][ow] -> [allow] 1935
+[b][ig] -> [big] 1936
+[sa][id ] -> [said ] 1937
+[h][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [h<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1938
+[on][e<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [one<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 1939
+[ ][are ] -> [ are ] 1940
+[w][er] -> [wer] 1941
+[y][k\n] -> [yk\n] 1942
+[ind][i] -> [indi] 1943
+[on][ the ] -> [on the ] 1944
+[ ][\"] -> [ \"] 1945
+[ g][irl] -> [ girl] 1946
+[b][lack] -> [black] 1947
+[D][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [D<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 1948
+[\n][wait ] -> [\nwait ] 1949
+[la][st ] -> [last ] 1950
+[Y][S ] -> [YS ] 1951
+[BU][T ] -> [BUT ] 1952
+[\ni ][think] -> [\ni think] 1953
+[is][m] -> [ism] 1954
+[bro]['s ] -> [bro's ] 1955
+[p][ic] -> [pic] 1956
+[ p][eak] -> [ peak] 1957
+[LE][T'S ] -> [LET'S ] 1958
+[t][urn] -> [turn] 1959
+[~][~] -> [~~] 1960
+[IGH][T] -> [IGHT] 1961
+[ sh][ow] -> [ show] 1962
+[W][AN] -> [WAN] 1963
+[up][\n] -> [up\n] 1964
+[ t][ake ] -> [ take ] 1965
+[ j][o] -> [ jo] 1966
+[gu][y ] -> [guy ] 1967
+[com][m] -> [comm] 1968
+[be][fore ] -> [before ] 1969
+[EM][B] -> [EMB] 1970
+[a ][f] -> [a f] 1971
+[de][f] -> [def] 1972
+[st][ream] -> [stream] 1973
+[re][a] -> [rea] 1974
+[LI][MA] -> [LIMA] 1975
+[is ][it ] -> [is it ] 1976
+[ that]['s ] -> [ that's ] 1977
+[ M][E ] -> [ ME ] 1978
+[us][ed ] -> [used ] 1979
+[n][\n] -> [n\n] 1980
+[en][ti] -> [enti] 1981
+[us][\n] -> [us\n] 1982
+[d][r] -> [dr] 1983
+[fu][l] -> [ful] 1984
+[-\n][GET OU] -> [-\nGET OU] 1985
+[\nWA][IT ] -> [\nWAIT ] 1986
+[id][er] -> [ider] 1987
+[l][itt] -> [litt] 1988
+[um][b] -> [umb] 1989
+[per][son] -> [person] 1990
+[is][ so ] -> [is so ] 1991
+[ S][A] -> [ SA] 1992
+[ d][on't ] -> [ don't ] 1993
+[me][an ] -> [mean ] 1994
+[s][t\n] -> [st\n] 1995
+[U][CH] -> [UCH] 1996
+[EV][EN] -> [EVEN] 1997
+[da][w] -> [daw] 1998
+[g][f] -> [gf] 1999
+[cuz][ i ] -> [cuz i ] 2000
+[ne][ed] -> [need] 2001
+[f][ound] -> [found] 2002
+[w][ar] -> [war] 2003
+[le][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [le<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2004
+[u][k] -> [uk] 2005
+[cra][sh] -> [crash] 2006
+[en][ts ] -> [ents ] 2007
+[yipp][e] -> [yippe] 2008
+[j][us] -> [jus] 2009
+[W][OR] -> [WOR] 2010
+[ m][uch] -> [ much] 2011
+[GO][AT] -> [GOAT] 2012
+[le][t's ] -> [let's ] 2013
+[ea][t] -> [eat] 2014
+[t][y ] -> [ty ] 2015
+[\nW][h] -> [\nWh] 2016
+[ a][sk] -> [ ask] 2017
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][oh] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>oh] 2018
+[d][e\n] -> [de\n] 2019
+[or][ne] -> [orne] 2020
+[for][ the ] -> [for the ] 2021
+[b][est ] -> [best ] 2022
+[lik][e<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [like<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2023
+[is s][erver] -> [is server] 2024
+[ra][c] -> [rac] 2025
+[ ][over] -> [ over] 2026
+[u][b] -> [ub] 2027
+[m][usic] -> [music] 2028
+[al][ways ] -> [always ] 2029
+[a][u] -> [au] 2030
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>oh][ ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>oh ] 2031
+[ou][p] -> [oup] 2032
+[all][ the ] -> [all the ] 2033
+[and][om] -> [andom] 2034
+[i ][don't ] -> [i don't ] 2035
+[n][umber] -> [number] 2036
+[reas][on] -> [reason] 2037
+[y][ur] -> [yur] 2038
+[pl][s ] -> [pls ] 2039
+[la][ter] -> [later] 2040
+[N][o ] -> [No ] 2041
+[lin][e\n] -> [line\n] 2042
+[W][TF] -> [WTF] 2043
+[sha][y ] -> [shay ] 2044
+[PEAK][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [PEAK<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2045
+[y]['] -> [y'] 2046
+[ri][v] -> [riv] 2047
+[ w][ere ] -> [ were ] 2048
+[wh][ite] -> [white] 2049
+[r][un] -> [run] 2050
+[go][of] -> [goof] 2051
+[vor][ite] -> [vorite] 2052
+[th][eir] -> [their] 2053
+[n][er] -> [ner] 2054
+[can][t ] -> [cant ] 2055
+[or][ smth] -> [or smth] 2056
+[ w][ould ] -> [ would ] 2057
+[p][fp] -> [pfp] 2058
+[tt][y ] -> [tty ] 2059
+[S][P] -> [SP] 2060
+[c][oun] -> [coun] 2061
+[ s][up] -> [ sup] 2062
+[K][\n] -> [K\n] 2063
+[M][OR] -> [MOR] 2064
+[ A][B] -> [ AB] 2065
+[look][s ] -> [looks ] 2066
+[ f][riend] -> [ friend] 2067
+[wha][t] -> [what] 2068
+[X][EY] -> [XEY] 2069
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][alr] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>alr] 2070
+[\ni ][just ] -> [\ni just ] 2071
+[ m][an] -> [ man] 2072
+[le][g] -> [leg] 2073
+[ed ][the ] -> [ed the ] 2074
+[FR][OM] -> [FROM] 2075
+[EN][T ] -> [ENT ] 2076
+[c][lo] -> [clo] 2077
+[R][EM] -> [REM] 2078
+[ ][ro] -> [ ro] 2079
+[C][E ] -> [CE ] 2080
+[D][S ] -> [DS ] 2081
+[O][k] -> [Ok] 2082
+[el][se ] -> [else ] 2083
+[i][en] -> [ien] 2084
+[IR][L] -> [IRL] 2085
+[\n][L] -> [\nL] 2086
+[ ax][eya] -> [ axeya] 2087
+[ON][\n] -> [ON\n] 2088
+[K][EEP] -> [KEEP] 2089
+[tr][y] -> [try] 2090
+[it][ion] -> [ition] 2091
+[D][U] -> [DU] 2092
+['][t\n] -> ['t\n] 2093
+[ra][p] -> [rap] 2094
+[ se][cond] -> [ second] 2095
+[\n][im] -> [\nim] 2096
+[s][erver] -> [server] 2097
+[ha][ven] -> [haven] 2098
+[in][ a ] -> [in a ] 2099
+[ is ][a ] -> [ is a ] 2100
+[\nI ][SWEAR] -> [\nI SWEAR] 2101
+[ m][y s] -> [ my s] 2102
+[TH][EN] -> [THEN] 2103
+[K][NOW] -> [KNOW] 2104
+[X][L] -> [XL] 2105
+[to][ be ] -> [to be ] 2106
+[if][ you] -> [if you] 2107
+[e][t] -> [et] 2108
+[ wha][t\n] -> [ what\n] 2109
+[ ][U] -> [ U] 2110
+[HO][LLO] -> [HOLLO] 2111
+[ bo][ss] -> [ boss] 2112
+[oh][ right\n] -> [oh right\n] 2113
+[ever][y ] -> [every ] 2114
+[to][o] -> [too] 2115
+[s][te] -> [ste] 2116
+[e][-<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [e-<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2117
+[wh][er] -> [wher] 2118
+[ cha][t\n] -> [ chat\n] 2119
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][what ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>what ] 2120
+[ ][it\n] -> [ it\n] 2121
+[u][nder] -> [under] 2122
+[U][U] -> [UU] 2123
+[ra][in] -> [rain] 2124
+[F][F] -> [FF] 2125
+[im][p] -> [imp] 2126
+[C][O] -> [CO] 2127
+[it][ler] -> [itler] 2128
+[\ns][t] -> [\nst] 2129
+[ of][ the ] -> [ of the ] 2130
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][OMG] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>OMG] 2131
+[LE][T ] -> [LET ] 2132
+[mor][n] -> [morn] 2133
+[d][raw] -> [draw] 2134
+[craz][y\n] -> [crazy\n] 2135
+[ ][out ] -> [ out ] 2136
+[C][OR] -> [COR] 2137
+[ to][ the ] -> [ to the ] 2138
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][U] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>U] 2139
+[ of][f] -> [ off] 2140
+[J][O] -> [JO] 2141
+[A][\n] -> [A\n] 2142
+[ a][fter] -> [ after] 2143
+[i ][just ] -> [i just ] 2144
+[ ][qu] -> [ qu] 2145
+[ b][r] -> [ br] 2146
+[al][so\n] -> [also\n] 2147
+[we]['re ] -> [we're ] 2148
+[p][lu] -> [plu] 2149
+[every][one ] -> [everyone ] 2150
+[i][es ] -> [ies ] 2151
+[DON]['T ] -> [DON'T ] 2152
+[ p][ar] -> [ par] 2153
+['][ve ] -> ['ve ] 2154
+[ver][s] -> [vers] 2155
+[ti][ck] -> [tick] 2156
+[to][ get ] -> [to get ] 2157
+[litt][le ] -> [little ] 2158
+[at][t] -> [att] 2159
+[w][d] -> [wd] 2160
+[ing ][a ] -> [ing a ] 2161
+[RA][PP] -> [RAPP] 2162
+[ f][uck] -> [ fuck] 2163
+[ax][eya ] -> [axeya ] 2164
+[ex][p] -> [exp] 2165
+[w][on't ] -> [won't ] 2166
+[HO][LY ] -> [HOLY ] 2167
+[ca][p] -> [cap] 2168
+[ ][its ] -> [ its ] 2169
+[u][ll] -> [ull] 2170
+[A][T ] -> [AT ] 2171
+[ould][n't ] -> [ouldn't ] 2172
+[for][g] -> [forg] 2173
+[c][ess] -> [cess] 2174
+[I][ST] -> [IST] 2175
+[s][-<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [s-<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2176
+[re][ss] -> [ress] 2177
+[lo][st ] -> [lost ] 2178
+[d][s ] -> [ds ] 2179
+[ro][ll] -> [roll] 2180
+[wh][ile ] -> [while ] 2181
+[am][ ] -> [am ] 2182
+[that ][was ] -> [that was ] 2183
+[op][en] -> [open] 2184
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][btw] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>btw] 2185
+[ m][ight ] -> [ might ] 2186
+[fr][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [fr<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2187
+[ t][y] -> [ ty] 2188
+[ sha][y<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [ shay<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2189
+[w][if] -> [wif] 2190
+[s][ound] -> [sound] 2191
+[exc][ept ] -> [except ] 2192
+[S][ONG] -> [SONG] 2193
+[an][c] -> [anc] 2194
+[OO][OO] -> [OOOO] 2195
+[s][tar] -> [star] 2196
+[ f][a] -> [ fa] 2197
+[ER][VER] -> [ERVER] 2198
+[vi][ation] -> [viation] 2199
+[\n][btw] -> [\nbtw] 2200
+[lima][y\n] -> [limay\n] 2201
+[HOLLO][W ] -> [HOLLOW ] 2202
+[k][en] -> [ken] 2203
+[hollow kn][ight ] -> [hollow knight ] 2204
+[s][ay ] -> [say ] 2205
+[a][ted ] -> [ated ] 2206
+[ m][ak] -> [ mak] 2207
+[did][nt ] -> [didnt ] 2208
+[that][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [that<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2209
+[A][P] -> [AP] 2210
+[be][t<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [bet<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2211
+[THIS ][IS ] -> [THIS IS ] 2212
+[S][E ] -> [SE ] 2213
+[trus][t<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [trust<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2214
+[OS][T ] -> [OST ] 2215
+[l][or] -> [lor] 2216
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>O][h] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Oh] 2217
+[G][E ] -> [GE ] 2218
+[c][at] -> [cat] 2219
+[m][al] -> [mal] 2220
+[V][I] -> [VI] 2221
+[irl][in] -> [irlin] 2222
+[no][obi] -> [noobi] 2223
+[g][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [g<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2224
+[v][e] -> [ve] 2225
+[p][tf] -> [ptf] 2226
+[h][op] -> [hop] 2227
+[\n][F] -> [\nF] 2228
+[ t][f] -> [ tf] 2229
+[F][IR] -> [FIR] 2230
+[f][rappe ] -> [frappe ] 2231
+[y][ba] -> [yba] 2232
+[e][en] -> [een] 2233
+[f][i] -> [fi] 2234
+[s][-\n] -> [s-\n] 2235
+[ m][e<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ me<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2236
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Y][ea] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Yea] 2237
+[ing][ me ] -> [ing me ] 2238
+[bo][th] -> [both] 2239
+[t][al] -> [tal] 2240
+[s][ush] -> [sush] 2241
+[NAUR][\n] -> [NAUR\n] 2242
+[S][I] -> [SI] 2243
+[ing][s ] -> [ings ] 2244
+[M][AN] -> [MAN] 2245
+[NIG][GA] -> [NIGGA] 2246
+[YOU][ ] -> [YOU ] 2247
+[ c][ook] -> [ cook] 2248
+[h][on] -> [hon] 2249
+[di][amond] -> [diamond] 2250
+[at ][the ] -> [at the ] 2251
+[ fe][el] -> [ feel] 2252
+[HOLLOW ][KN] -> [HOLLOW KN] 2253
+[lma][o<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [lmao<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2254
+[basic][ally\n] -> [basically\n] 2255
+[HA][S ] -> [HAS ] 2256
+[i ][got ] -> [i got ] 2257
+[ pla][y] -> [ play] 2258
+[did ][not ] -> [did not ] 2259
+[om][en] -> [omen] 2260
+[ph][on] -> [phon] 2261
+[d][u] -> [du] 2262
+[ h][our] -> [ hour] 2263
+[as][te] -> [aste] 2264
+[la][sh] -> [lash] 2265
+[ d][m] -> [ dm] 2266
+[back][ to] -> [back to] 2267
+[ra][g] -> [rag] 2268
+[ha][t's ] -> [hat's ] 2269
+[p][ower] -> [power] 2270
+[y][-\n] -> [y-\n] 2271
+[m][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [m<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2272
+[might ][be ] -> [might be ] 2273
+[trus][t\n] -> [trust\n] 2274
+[ wh][o ] -> [ who ] 2275
+[u][ss] -> [uss] 2276
+[N][N] -> [NN] 2277
+[I][t ] -> [It ] 2278
+[s][end] -> [send] 2279
+[po][s] -> [pos] 2280
+[d][es] -> [des] 2281
+[ex][ist] -> [exist] 2282
+[e][e ] -> [ee ] 2283
+[ha][nd] -> [hand] 2284
+[talk][ing ] -> [talking ] 2285
+[y][all] -> [yall] 2286
+[lear][n] -> [learn] 2287
+[in][ p] -> [in p] 2288
+[the ][fuck] -> [the fuck] 2289
+[or][t ] -> [ort ] 2290
+[wa][it<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [wait<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2291
+[tr][u] -> [tru] 2292
+[\n][u] -> [\nu] 2293
+[s][ec] -> [sec] 2294
+[n][or] -> [nor] 2295
+[REA][M] -> [REAM] 2296
+[ st][uff] -> [ stuff] 2297
+[\n][my ] -> [\nmy ] 2298
+[ing][ with] -> [ing with] 2299
+[ a][ga] -> [ aga] 2300
+[wha][t<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [what<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2301
+[IT][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [IT<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2302
+[lef][t ] -> [left ] 2303
+[a][i] -> [ai] 2304
+[oka][y<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [okay<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2305
+[IT][T] -> [ITT] 2306
+[l][ist] -> [list] 2307
+[ f][rapp] -> [ frapp] 2308
+[cre][en] -> [creen] 2309
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][tyler] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>tyler] 2310
+[a][ sh] -> [a sh] 2311
+[-][ ] -> [- ] 2312
+[\nT][yler] -> [\nTyler] 2313
+[M][E\n] -> [ME\n] 2314
+[all][y s] -> [ally s] 2315
+[id][d] -> [idd] 2316
+[up][ the ] -> [up the ] 2317
+[s ][the ] -> [s the ] 2318
+[S][O] -> [SO] 2319
+[ th][ese ] -> [ these ] 2320
+[e][a ] -> [ea ] 2321
+[ de][f] -> [ def] 2322
+[li][e] -> [lie] 2323
+[for][ me ] -> [for me ] 2324
+[may][be ] -> [maybe ] 2325
+[T][v] -> [Tv] 2326
+[ED ][TO ] -> [ED TO ] 2327
+[\nWA][IT\n] -> [\nWAIT\n] 2328
+[G][A ] -> [GA ] 2329
+[ be][tter] -> [ better] 2330
+[are ][you] -> [are you] 2331
+[oo][d] -> [ood] 2332
+[ist][an\n] -> [istan\n] 2333
+[I ][SWEAR] -> [I SWEAR] 2334
+[ge][tting ] -> [getting ] 2335
+[th][ose ] -> [those ] 2336
+[la][p] -> [lap] 2337
+[gu][ys ] -> [guys ] 2338
+[b][ea] -> [bea] 2339
+[K][K] -> [KK] 2340
+[an][ce ] -> [ance ] 2341
+[tell][ me ] -> [tell me ] 2342
+[ba][d ] -> [bad ] 2343
+[ s][o\n] -> [ so\n] 2344
+[it ][to] -> [it to] 2345
+[no][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [no<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2346
+[cya][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [cya<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2347
+[ u][ can] -> [ u can] 2348
+[ of][ ] -> [ of ] 2349
+[ing ][for] -> [ing for] 2350
+[OU][LD ] -> [OULD ] 2351
+[ A][T ] -> [ AT ] 2352
+[ ][N] -> [ N] 2353
+[X][\n] -> [X\n] 2354
+[ou][t<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [out<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2355
+[:][D\n] -> [:D\n] 2356
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>W][H] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>WH] 2357
+[ll][y ] -> [lly ] 2358
+[ S][HA] -> [ SHA] 2359
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>L][ol] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Lol] 2360
+[an][other] -> [another] 2361
+[ go][on] -> [ goon] 2362
+[B][ut ] -> [But ] 2363
+[peak][istan] -> [peakistan] 2364
+[lea][st ] -> [least ] 2365
+[bo][dy ] -> [body ] 2366
+[la][z] -> [laz] 2367
+[w][ant] -> [want] 2368
+[v][es ] -> [ves ] 2369
+[I'M][ ] -> [I'M ] 2370
+[J][ohn] -> [John] 2371
+[l][y<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ly<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2372
+[ m][ad] -> [ mad] 2373
+[ c][hat ] -> [ chat ] 2374
+[cor][d] -> [cord] 2375
+[ ][AND ] -> [ AND ] 2376
+[me ][to] -> [me to] 2377
+[AN][D] -> [AND] 2378
+[i'][ma] -> [i'ma] 2379
+[with][ ] -> [with ] 2380
+[N][G] -> [NG] 2381
+[ G][ONNA ] -> [ GONNA ] 2382
+[and ][also ] -> [and also ] 2383
+[har][d ] -> [hard ] 2384
+[y][s<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [ys<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2385
+[:][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [:<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2386
+[IN][\n] -> [IN\n] 2387
+[ W][H] -> [ WH] 2388
+[te][ach] -> [teach] 2389
+[tu][re] -> [ture] 2390
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][F] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>F] 2391
+[N]['T ] -> [N'T ] 2392
+[to][n] -> [ton] 2393
+[h][y] -> [hy] 2394
+[I'M][ D] -> [I'M D] 2395
+[a][it ] -> [ait ] 2396
+[pre][tty ] -> [pretty ] 2397
+[id][k\n] -> [idk\n] 2398
+[ther][e's ] -> [there's ] 2399
+[P][E] -> [PE] 2400
+[ea][ch] -> [each] 2401
+[ p][lan] -> [ plan] 2402
+[r][andom] -> [random] 2403
+[IN ][THE ] -> [IN THE ] 2404
+[YOU][R] -> [YOUR] 2405
+[ho][ld ] -> [hold ] 2406
+[pp][ed ] -> [pped ] 2407
+[ab][t ] -> [abt ] 2408
+[c][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [c<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2409
+[gam][e\n] -> [game\n] 2410
+[s][g] -> [sg] 2411
+[com][es ] -> [comes ] 2412
+[P][ER] -> [PER] 2413
+[i sa][id ] -> [i said ] 2414
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>i ][mean] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>i mean] 2415
+[r][\n] -> [r\n] 2416
+[TH][ES] -> [THES] 2417
+[SH][E ] -> [SHE ] 2418
+[H][EAR] -> [HEAR] 2419
+[\ns][ushi ] -> [\nsushi ] 2420
+[po][in] -> [poin] 2421
+[\ni ][can] -> [\ni can] 2422
+[W][HA] -> [WHA] 2423
+[be][ing ] -> [being ] 2424
+[TH][EM] -> [THEM] 2425
+[im][ma ] -> [imma ] 2426
+[GOO][D ] -> [GOOD ] 2427
+[s ][on] -> [s on] 2428
+[ wh][ere ] -> [ where ] 2429
+[Y][O] -> [YO] 2430
+[AC][TU] -> [ACTU] 2431
+[i][ke ] -> [ike ] 2432
+[WH][Y ] -> [WHY ] 2433
+[w][ent ] -> [went ] 2434
+[K][E\n] -> [KE\n] 2435
+[ed ][my ] -> [ed my ] 2436
+[le][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [le<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2437
+[hear][d ] -> [heard ] 2438
+[hav][e\n] -> [have\n] 2439
+[f][as] -> [fas] 2440
+[OU][GH] -> [OUGH] 2441
+[lo][ad ] -> [load ] 2442
+[il][d] -> [ild] 2443
+[NA][H] -> [NAH] 2444
+[M][E] -> [ME] 2445
+[C][AR] -> [CAR] 2446
+[is][e ] -> [ise ] 2447
+[r][ic] -> [ric] 2448
+[ing][ my ] -> [ing my ] 2449
+[U][L] -> [UL] 2450
+[REM][EMB] -> [REMEMB] 2451
+[nigga][\n] -> [nigga\n] 2452
+[WH][EN] -> [WHEN] 2453
+[have ][to] -> [have to] 2454
+[ s][te] -> [ ste] 2455
+[u][in] -> [uin] 2456
+[ha][ts ] -> [hats ] 2457
+[H][ELP] -> [HELP] 2458
+[ac][tion] -> [action] 2459
+[a][tor] -> [ator] 2460
+[the s][ame ] -> [the same ] 2461
+[now][\n] -> [now\n] 2462
+[d][ec] -> [dec] 2463
+[i][al] -> [ial] 2464
+[ in][ ] -> [ in ] 2465
+[CU][Z] -> [CUZ] 2466
+[e][ep] -> [eep] 2467
+[y][ing\n] -> [ying\n] 2468
+[her][e\n] -> [here\n] 2469
+[ is][su] -> [ issu] 2470
+[ w][ant] -> [ want] 2471
+[D][AMN] -> [DAMN] 2472
+[c][ur] -> [cur] 2473
+[when][ i ] -> [when i ] 2474
+[M][UCH] -> [MUCH] 2475
+[PL][EAS] -> [PLEAS] 2476
+[:][D<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [:D<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2477
+[e][,] -> [e,] 2478
+[ti][p] -> [tip] 2479
+[forgo][t\n] -> [forgot\n] 2480
+[m][f] -> [mf] 2481
+[W][E ] -> [WE ] 2482
+[ c][o] -> [ co] 2483
+[plu][s ] -> [plus ] 2484
+[cla][ss] -> [class] 2485
+[diff][er] -> [differ] 2486
+[pla][ying ] -> [playing ] 2487
+[ d][ea] -> [ dea] 2488
+[H][ow] -> [How] 2489
+[no][t\n] -> [not\n] 2490
+[ g][r] -> [ gr] 2491
+[it][y\n] -> [ity\n] 2492
+[ted ][to] -> [ted to] 2493
+[h][h\n] -> [hh\n] 2494
+[m][e<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [me<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2495
+[did ][u] -> [did u] 2496
+[ab][le ] -> [able ] 2497
+[H][ER] -> [HER] 2498
+[ th][ere ] -> [ there ] 2499
+[ ][own] -> [ own] 2500
+[OH][ MY ] -> [OH MY ] 2501
+[y][m\n] -> [ym\n] 2502
+[ D][O ] -> [ DO ] 2503
+[E][P] -> [EP] 2504
+[f][ar] -> [far] 2505
+[G][G] -> [GG] 2506
+[ p][o] -> [ po] 2507
+[a][v] -> [av] 2508
+[hollow kn][ight\n] -> [hollow knight\n] 2509
+[ag][e\n] -> [age\n] 2510
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][it's ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>it's ] 2511
+[TF ][IS ] -> [TF IS ] 2512
+[ure][\n] -> [ure\n] 2513
+[E][Z] -> [EZ] 2514
+[G][O ] -> [GO ] 2515
+[ s][k] -> [ sk] 2516
+[ gu][ess] -> [ guess] 2517
+[ wan][na ] -> [ wanna ] 2518
+[ys][tem] -> [ystem] 2519
+[ a][s] -> [ as] 2520
+[T][RI] -> [TRI] 2521
+[ di][hh] -> [ dihh] 2522
+[c][e<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ce<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2523
+[and][ the ] -> [and the ] 2524
+[ C][AN] -> [ CAN] 2525
+[d][em] -> [dem] 2526
+[y\n][i ] -> [y\ni ] 2527
+[h][k] -> [hk] 2528
+[e][m\n] -> [em\n] 2529
+[en][ce ] -> [ence ] 2530
+[tim][es ] -> [times ] 2531
+[ g][ra] -> [ gra] 2532
+[\ni ][got ] -> [\ni got ] 2533
+[ti][l] -> [til] 2534
+[ B][E] -> [ BE] 2535
+[ f][in] -> [ fin] 2536
+[l][es] -> [les] 2537
+[ ][nam] -> [ nam] 2538
+[ty][p] -> [typ] 2539
+[\ni mean][\n] -> [\ni mean\n] 2540
+[b][et ] -> [bet ] 2541
+[\n][nvm] -> [\nnvm] 2542
+[\nW][hat ] -> [\nWhat ] 2543
+[I][MA] -> [IMA] 2544
+[liter][ally ] -> [literally ] 2545
+[is][ m] -> [is m] 2546
+[ f][ir] -> [ fir] 2547
+[IN][E ] -> [INE ] 2548
+[ter][\n] -> [ter\n] 2549
+[luk][e<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [luke<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2550
+[I][Z] -> [IZ] 2551
+[on][e<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [one<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2552
+[DE][F] -> [DEF] 2553
+[b][or] -> [bor] 2554
+[ha][ha] -> [haha] 2555
+[br][u] -> [bru] 2556
+[cor][n] -> [corn] 2557
+[g][er] -> [ger] 2558
+[N][ah] -> [Nah] 2559
+[lu][te] -> [lute] 2560
+[l][y<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [ly<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2561
+[IT][E ] -> [ITE ] 2562
+[T][CH] -> [TCH] 2563
+[cra][f] -> [craf] 2564
+[G][R] -> [GR] 2565
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][wait ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>wait ] 2566
+[end][er] -> [ender] 2567
+[erm][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [erm<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2568
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][M] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>M] 2569
+[ sa][y\n] -> [ say\n] 2570
+[ra][di] -> [radi] 2571
+[p][ra] -> [pra] 2572
+[gng][nam] -> [gngnam] 2573
+[S][K] -> [SK] 2574
+[R][IGHT ] -> [RIGHT ] 2575
+[TH][ING] -> [THING] 2576
+[ ][erm\n] -> [ erm\n] 2577
+[no ][one ] -> [no one ] 2578
+[g][l] -> [gl] 2579
+[you][ can] -> [you can] 2580
+[ad][d ] -> [add ] 2581
+[ann][el] -> [annel] 2582
+[lo][g] -> [log] 2583
+[peak][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [peak<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2584
+[ r][ight ] -> [ right ] 2585
+[I][CK] -> [ICK] 2586
+[R][eal] -> [Real] 2587
+[y'][all] -> [y'all] 2588
+[ig][ga] -> [igga] 2589
+[cuz][\n] -> [cuz\n] 2590
+[ins][te] -> [inste] 2591
+[HOLY ][SH] -> [HOLY SH] 2592
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>A][nd] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>And] 2593
+[ m][em] -> [ mem] 2594
+[fa][vorite] -> [favorite] 2595
+[y]['s ] -> [y's ] 2596
+[A][D] -> [AD] 2597
+[\n][U] -> [\nU] 2598
+[ain]['t ] -> [ain't ] 2599
+[s ][in] -> [s in] 2600
+[O][r] -> [Or] 2601
+[OM][E ] -> [OME ] 2602
+[e][.] -> [e.] 2603
+[cya][\n] -> [cya\n] 2604
+[:][D] -> [:D] 2605
+[OMG][ ] -> [OMG ] 2606
+[h][ey ] -> [hey ] 2607
+[C][HAT\n] -> [CHAT\n] 2608
+[her][e's ] -> [here's ] 2609
+[A][CK] -> [ACK] 2610
+[im][e ] -> [ime ] 2611
+[e][, ] -> [e, ] 2612
+[b][ir] -> [bir] 2613
+[TH][INK] -> [THINK] 2614
+[lo][t ] -> [lot ] 2615
+[op][tion] -> [option] 2616
+[a ][p] -> [a p] 2617
+[\"][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [\"<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2618
+[p][ick] -> [pick] 2619
+[r][ight<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [right<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2620
+[do u][ think] -> [do u think] 2621
+[r][ight<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [right<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2622
+[i][ler] -> [iler] 2623
+[t][m] -> [tm] 2624
+[go][d] -> [god] 2625
+[it ][is ] -> [it is ] 2626
+[ c][ool] -> [ cool] 2627
+[ u][ ] -> [ u ] 2628
+[-\n][nvm] -> [-\nnvm] 2629
+[H][OR] -> [HOR] 2630
+[LO][VE ] -> [LOVE ] 2631
+[i mean][\n] -> [i mean\n] 2632
+[tor][n] -> [torn] 2633
+[D][EA] -> [DEA] 2634
+[B][I] -> [BI] 2635
+[am][er] -> [amer] 2636
+[goo][d\n] -> [good\n] 2637
+[\ni ][was ] -> [\ni was ] 2638
+[ba][b] -> [bab] 2639
+[c][al] -> [cal] 2640
+[ar][d ] -> [ard ] 2641
+[ou][t<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [out<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2642
+[ ][=] -> [ =] 2643
+[HAPP][EN] -> [HAPPEN] 2644
+[ou][t] -> [out] 2645
+[ go][tta ] -> [ gotta ] 2646
+[as ][sh] -> [as sh] 2647
+[eas][y ] -> [easy ] 2648
+[ do][es ] -> [ does ] 2649
+[ed ][in] -> [ed in] 2650
+[NO][W ] -> [NOW ] 2651
+[ some][one ] -> [ someone ] 2652
+[ra][ge ] -> [rage ] 2653
+[ of][ my ] -> [ of my ] 2654
+[w][ard] -> [ward] 2655
+[qu][ick] -> [quick] 2656
+[LMA][O\n] -> [LMAO\n] 2657
+[up][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [up<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2658
+[OH MY ][GO] -> [OH MY GO] 2659
+[T][E ] -> [TE ] 2660
+[\n][P] -> [\nP] 2661
+[ S][P] -> [ SP] 2662
+[ST][ILL] -> [STILL] 2663
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][peak<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>peak<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2664
+[br][uh] -> [bruh] 2665
+[-<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][I ] -> [-<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>I ] 2666
+[th][an] -> [than] 2667
+[ch][arm] -> [charm] 2668
+[ON][LY ] -> [ONLY ] 2669
+[ e][mo] -> [ emo] 2670
+[cook][ed\n] -> [cooked\n] 2671
+[THA][T\n] -> [THAT\n] 2672
+[g][iv] -> [giv] 2673
+[me ][and] -> [me and] 2674
+[f][rapp] -> [frapp] 2675
+[\" ][-] -> [\" -] 2676
+[\nB][RO ] -> [\nBRO ] 2677
+[enti][re ] -> [entire ] 2678
+[ ][it<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ it<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2679
+[ix][l] -> [ixl] 2680
+[s][er] -> [ser] 2681
+[ pe][ople ] -> [ people ] 2682
+[chang][e ] -> [change ] 2683
+[ p][er] -> [ per] 2684
+[boe][ing ] -> [boeing ] 2685
+[b][e\n] -> [be\n] 2686
+[by][e ] -> [bye ] 2687
+[\ni ][have ] -> [\ni have ] 2688
+[cya][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [cya<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2689
+[ah][em] -> [ahem] 2690
+[HAT][E ] -> [HATE ] 2691
+[ ][V] -> [ V] 2692
+[d][s\n] -> [ds\n] 2693
+[ y][ur] -> [ yur] 2694
+[th][x] -> [thx] 2695
+[tr][ust ] -> [trust ] 2696
+[T][AL] -> [TAL] 2697
+[ r][n] -> [ rn] 2698
+[CAN]['T ] -> [CAN'T ] 2699
+[Y][ING\n] -> [YING\n] 2700
+[AN][G] -> [ANG] 2701
+[LO][L] -> [LOL] 2702
+[ m][any ] -> [ many ] 2703
+[i'm][ ] -> [i'm ] 2704
+[I][K] -> [IK] 2705
+[I ][GOT ] -> [I GOT ] 2706
+[y][n] -> [yn] 2707
+[THES][E ] -> [THESE ] 2708
+[ ][tix] -> [ tix] 2709
+[ h][ea] -> [ hea] 2710
+[en][er] -> [ener] 2711
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][peak] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>peak] 2712
+[ri][ch] -> [rich] 2713
+[b][ar] -> [bar] 2714
+[s][e\n] -> [se\n] 2715
+[ b][et ] -> [ bet ] 2716
+[ gu][ys ] -> [ guys ] 2717
+[d][at] -> [dat] 2718
+[A][IR] -> [AIR] 2719
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>I][d] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Id] 2720
+[ sa][w] -> [ saw] 2721
+[ p][re] -> [ pre] 2722
+[col][or] -> [color] 2723
+[mar][k] -> [mark] 2724
+[lma][o\n] -> [lmao\n] 2725
+[M][ON] -> [MON] 2726
+[so ][uh] -> [so uh] 2727
+[c][as] -> [cas] 2728
+[a][y\n] -> [ay\n] 2729
+[U][S ] -> [US ] 2730
+[ b][eat ] -> [ beat ] 2731
+[th][ank] -> [thank] 2732
+[t][s<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ts<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2733
+[will][ be ] -> [will be ] 2734
+[if][ ] -> [if ] 2735
+[sh][ow] -> [show] 2736
+[ac][e ] -> [ace ] 2737
+[, ][v] -> [, v] 2738
+[M][\n] -> [M\n] 2739
+[T][UR] -> [TUR] 2740
+[cuz][ ] -> [cuz ] 2741
+[i'][d ] -> [i'd ] 2742
+[wd][ym] -> [wdym] 2743
+[y][-<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [y-<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2744
+[b][us] -> [bus] 2745
+[s][ince ] -> [since ] 2746
+[lo][l] -> [lol] 2747
+['][RE ] -> ['RE ] 2748
+[ELL][ ] -> [ELL ] 2749
+[to][ok] -> [took] 2750
+[ES][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ES<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2751
+[e][.\n] -> [e.\n] 2752
+[dis][cord ] -> [discord ] 2753
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>oh][\n] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>oh\n] 2754
+[ty][pe ] -> [type ] 2755
+[M][OST ] -> [MOST ] 2756
+[ y][ear] -> [ year] 2757
+[ c][ra] -> [ cra] 2758
+[ch][r] -> [chr] 2759
+[v][ing ] -> [ving ] 2760
+[like ][a ] -> [like a ] 2761
+[ a][ s] -> [ a s] 2762
+[J][ust ] -> [Just ] 2763
+[ s][ince ] -> [ since ] 2764
+[ ][has ] -> [ has ] 2765
+[lu][ck] -> [luck] 2766
+[alr][ight ] -> [alright ] 2767
+[y][e ] -> [ye ] 2768
+[on][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [on<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2769
+[up][id ] -> [upid ] 2770
+[ep][la] -> [epla] 2771
+[ar][ound] -> [around] 2772
+[FUCK][ ] -> [FUCK ] 2773
+[an][t ] -> [ant ] 2774
+[TO][O ] -> [TOO ] 2775
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][h] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>h] 2776
+[ro][om] -> [room] 2777
+[e][h] -> [eh] 2778
+[m][y] -> [my] 2779
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>T][he ] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>The ] 2780
+[we][ir] -> [weir] 2781
+[NE][W ] -> [NEW ] 2782
+[EVER][Y] -> [EVERY] 2783
+[S][o ] -> [So ] 2784
+[AL][ ] -> [AL ] 2785
+[har][d] -> [hard] 2786
+[A][l] -> [Al] 2787
+[\ns][he ] -> [\nshe ] 2788
+[ mad][e ] -> [ made ] 2789
+[j][ump] -> [jump] 2790
+[of][\n] -> [of\n] 2791
+[ m][e<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [ me<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2792
+[but ][i ] -> [but i ] 2793
+[i][a] -> [ia] 2794
+[f][ight ] -> [fight ] 2795
+[DEF][EA] -> [DEFEA] 2796
+[OM][E] -> [OME] 2797
+[I][t's ] -> [It's ] 2798
+[ma][sh] -> [mash] 2799
+[an][ a] -> [an a] 2800
+[go][tta ] -> [gotta ] 2801
+[ans][wer] -> [answer] 2802
+[is][s ] -> [iss ] 2803
+[of][ my ] -> [of my ] 2804
+[con][f] -> [conf] 2805
+[ya][\n] -> [ya\n] 2806
+[I][S\n] -> [IS\n] 2807
+[ d][ont ] -> [ dont ] 2808
+[p][ut ] -> [put ] 2809
+[down][load] -> [download] 2810
+[i'm][ gonna ] -> [i'm gonna ] 2811
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>I][M] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>IM] 2812
+[d][ing ] -> [ding ] 2813
+[ wha][t<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [ what<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2814
+[I][ts ] -> [Its ] 2815
+[me][ss] -> [mess] 2816
+[this ][is] -> [this is] 2817
+[t ][is ] -> [t is ] 2818
+[j][u] -> [ju] 2819
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>I][ts ] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Its ] 2820
+[t][ure ] -> [ture ] 2821
+[bu][ll] -> [bull] 2822
+[g][angnam] -> [gangnam] 2823
+[ma][sk] -> [mask] 2824
+[EN][T] -> [ENT] 2825
+[\nI ][JUST ] -> [\nI JUST ] 2826
+[s][chool] -> [school] 2827
+[DO][ES ] -> [DOES ] 2828
+[ tyler][\n] -> [ tyler\n] 2829
+[ST][OP] -> [STOP] 2830
+[th][o] -> [tho] 2831
+[re][n] -> [ren] 2832
+[ k][ill] -> [ kill] 2833
+[tim][e<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [time<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2834
+[dea][d ] -> [dead ] 2835
+[g][e\n] -> [ge\n] 2836
+[call][ed\n] -> [called\n] 2837
+[ pla][ying ] -> [ playing ] 2838
+[OO][L] -> [OOL] 2839
+[\ni ][don't ] -> [\ni don't ] 2840
+[ B][E ] -> [ BE ] 2841
+[ t][ri] -> [ tri] 2842
+[WH][O ] -> [WHO ] 2843
+[thr][ough] -> [through] 2844
+[con][tin] -> [contin] 2845
+[A][F] -> [AF] 2846
+[wh][y] -> [why] 2847
+[s ][for] -> [s for] 2848
+[o][c] -> [oc] 2849
+[e][t\n] -> [et\n] 2850
+[that ][mean] -> [that mean] 2851
+[P][C] -> [PC] 2852
+[W][ILL] -> [WILL] 2853
+[f][am] -> [fam] 2854
+[\ns][hay ] -> [\nshay ] 2855
+[s][to] -> [sto] 2856
+[li][p] -> [lip] 2857
+[ag][re] -> [agre] 2858
+[Y][ING ] -> [YING ] 2859
+[so ][uh\n] -> [so uh\n] 2860
+[jus][t\n] -> [just\n] 2861
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>L][MA] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>LMA] 2862
+[ c][ome ] -> [ come ] 2863
+[ st][y] -> [ sty] 2864
+[OH][\n] -> [OH\n] 2865
+[qu][ote] -> [quote] 2866
+[ind][ian] -> [indian] 2867
+[john][\n] -> [john\n] 2868
+[ S][USH] -> [ SUSH] 2869
+[t][.\n] -> [t.\n] 2870
+[.][\"] -> [.\"] 2871
+[axeya][\n] -> [axeya\n] 2872
+[wha][ts ] -> [whats ] 2873
+[\n][oh] -> [\noh] 2874
+[fax][\n] -> [fax\n] 2875
+[om][l] -> [oml] 2876
+[listen][ to] -> [listen to] 2877
+[ sm][ar] -> [ smar] 2878
+[gre][at ] -> [great ] 2879
+[ ][all] -> [ all] 2880
+[g][le ] -> [gle ] 2881
+[OU][T\n] -> [OUT\n] 2882
+[-\n][nvm\n] -> [-\nnvm\n] 2883
+[Y][S] -> [YS] 2884
+[ m][y] -> [ my] 2885
+[forg][or] -> [forgor] 2886
+[\n][D] -> [\nD] 2887
+[ i ][can] -> [ i can] 2888
+[i][es\n] -> [ies\n] 2889
+[i][hh] -> [ihh] 2890
+[wa][y\n] -> [way\n] 2891
+[H][IS ] -> [HIS ] 2892
+[ p][ic] -> [ pic] 2893
+[o][pp] -> [opp] 2894
+[te][d\n] -> [ted\n] 2895
+[RO][B] -> [ROB] 2896
+[ac][t ] -> [act ] 2897
+[im][a ] -> [ima ] 2898
+[le][x] -> [lex] 2899
+[m][en] -> [men] 2900
+[ s][po] -> [ spo] 2901
+[on][ my ] -> [on my ] 2902
+[es][t\n] -> [est\n] 2903
+[B][EC] -> [BEC] 2904
+[!][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [!<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2905
+[or][ s] -> [or s] 2906
+[, ][. ] -> [, . ] 2907
+[ez][\n] -> [ez\n] 2908
+[na][ur] -> [naur] 2909
+[r][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [r<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 2910
+[Y][ES\n] -> [YES\n] 2911
+[y][f] -> [yf] 2912
+[V][RO] -> [VRO] 2913
+[a ][little ] -> [a little ] 2914
+[happ][y ] -> [happy ] 2915
+[yba][u] -> [ybau] 2916
+[is s][ong] -> [is song] 2917
+[th][ese ] -> [these ] 2918
+[li][c] -> [lic] 2919
+[do ][u ] -> [do u ] 2920
+[\n][AND ] -> [\nAND ] 2921
+[Y][ea] -> [Yea] 2922
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>N][o ] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>No ] 2923
+[ d][id] -> [ did] 2924
+[v][ed ] -> [ved ] 2925
+[on][line ] -> [online ] 2926
+[who ][tf] -> [who tf] 2927
+[da][d ] -> [dad ] 2928
+[ th][is server] -> [ this server] 2929
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][You] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>You] 2930
+[P][OR] -> [POR] 2931
+[oka][y s] -> [okay s] 2932
+[ab][out\n] -> [about\n] 2933
+[\n][N] -> [\nN] 2934
+[NIG][GA ] -> [NIGGA ] 2935
+[cor][rec] -> [correc] 2936
+[\n][IS ] -> [\nIS ] 2937
+[IT][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [IT<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 2938
+[ h][e's ] -> [ he's ] 2939
+[air][por] -> [airpor] 2940
+[ k][eep] -> [ keep] 2941
+[th][ ] -> [th ] 2942
+[LE][M] -> [LEM] 2943
+[expla][in] -> [explain] 2944
+[ter][m] -> [term] 2945
+[ta][il] -> [tail] 2946
+[all][y] -> [ally] 2947
+[ a][t] -> [ at] 2948
+[c][ould ] -> [could ] 2949
+[BRO][\n] -> [BRO\n] 2950
+[L][D] -> [LD] 2951
+[ic][ul] -> [icul] 2952
+[d][ad] -> [dad] 2953
+[K][ID] -> [KID] 2954
+[any][one ] -> [anyone ] 2955
+[K][ING ] -> [KING ] 2956
+[B][Y ] -> [BY ] 2957
+[HO][W ] -> [HOW ] 2958
+[m][any ] -> [many ] 2959
+[ stup][id ] -> [ stupid ] 2960
+[rage ][ba] -> [rage ba] 2961
+[b][oo] -> [boo] 2962
+[ wor][k] -> [ work] 2963
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>s][ushi ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>sushi ] 2964
+[dud][e ] -> [dude ] 2965
+[friend][s ] -> [friends ] 2966
+[w][itch] -> [witch] 2967
+[ M][A] -> [ MA] 2968
+[ed ][for] -> [ed for] 2969
+[TI][ON] -> [TION] 2970
+[ f][ight ] -> [ fight ] 2971
+[\n][to] -> [\nto] 2972
+[aw][w] -> [aww] 2973
+[uch][ a ] -> [uch a ] 2974
+[ac][t] -> [act] 2975
+[am][\n] -> [am\n] 2976
+[bu][y ] -> [buy ] 2977
+[PL][AN] -> [PLAN] 2978
+[mind][s ] -> [minds ] 2979
+[h][igh] -> [high] 2980
+[P][R] -> [PR] 2981
+[IT][CH] -> [ITCH] 2982
+[do ][i ] -> [do i ] 2983
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][my ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>my ] 2984
+[t][ro] -> [tro] 2985
+[will][ ] -> [will ] 2986
+[ th][ing] -> [ thing] 2987
+[ci][al] -> [cial] 2988
+[a ][c] -> [a c] 2989
+[h][um] -> [hum] 2990
+[B][L] -> [BL] 2991
+[ d][raw] -> [ draw] 2992
+[re][la] -> [rela] 2993
+[er][ ] -> [er ] 2994
+[\nWH][Y ] -> [\nWHY ] 2995
+[L][ol] -> [Lol] 2996
+[eng][in] -> [engin] 2997
+[I][ON] -> [ION] 2998
+[p][ass] -> [pass] 2999
+[V][E\n] -> [VE\n] 3000
+[b][ook] -> [book] 3001
+[I][f] -> [If] 3002
+[lea][ve ] -> [leave ] 3003
+[a ][new] -> [a new] 3004
+[ W][ITH] -> [ WITH] 3005
+[s][top] -> [stop] 3006
+[re][action] -> [reaction] 3007
+[your][ ] -> [your ] 3008
+[ ][A ] -> [ A ] 3009
+[when][ever] -> [whenever] 3010
+[what ][happen] -> [what happen] 3011
+[diff][icul] -> [difficul] 3012
+[b][s] -> [bs] 3013
+[P][AR] -> [PAR] 3014
+[ a][hh] -> [ ahh] 3015
+[w][ish] -> [wish] 3016
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>s][up] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>sup] 3017
+[G][IVE ] -> [GIVE ] 3018
+[BEA][T ] -> [BEAT ] 3019
+[it][ten] -> [itten] 3020
+[i'm][ so ] -> [i'm so ] 3021
+[look][ at ] -> [look at ] 3022
+[u][g] -> [ug] 3023
+[ A][LL] -> [ ALL] 3024
+[um][ba] -> [umba] 3025
+[US][E ] -> [USE ] 3026
+[ th][ey] -> [ they] 3027
+[a ][mo] -> [a mo] 3028
+[K][A] -> [KA] 3029
+[pl][uh] -> [pluh] 3030
+[j][st ] -> [jst ] 3031
+[, v][ai ] -> [, vai ] 3032
+[LET'S ][GO] -> [LET'S GO] 3033
+[G][RA] -> [GRA] 3034
+[i'ma ][go ] -> [i'ma go ] 3035
+[k][n] -> [kn] 3036
+[to][ s] -> [to s] 3037
+[TT][ER] -> [TTER] 3038
+[S][U] -> [SU] 3039
+[ID][E] -> [IDE] 3040
+[ ][if u] -> [ if u] 3041
+[now][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [now<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3042
+[C][HA] -> [CHA] 3043
+[ w][if] -> [ wif] 3044
+[ ][enough] -> [ enough] 3045
+[\nW][ha] -> [\nWha] 3046
+[in][te] -> [inte] 3047
+[i][a ] -> [ia ] 3048
+[daw][g] -> [dawg] 3049
+[a][ve ] -> [ave ] 3050
+[W][HAT\n] -> [WHAT\n] 3051
+[us][ed to] -> [used to] 3052
+[and][ u] -> [and u] 3053
+[er][s\n] -> [ers\n] 3054
+[e][mo] -> [emo] 3055
+[I'][ll] -> [I'll] 3056
+[E\n][I ] -> [E\nI ] 3057
+[f][er] -> [fer] 3058
+[gen][uin] -> [genuin] 3059
+[so][lute] -> [solute] 3060
+[ p][fp] -> [ pfp] 3061
+[fu][ll] -> [full] 3062
+[just ][like ] -> [just like ] 3063
+[ sa][id\n] -> [ said\n] 3064
+[\nand][ then] -> [\nand then] 3065
+[s][c] -> [sc] 3066
+[ib][id] -> [ibid] 3067
+[ you]['re ] -> [ you're ] 3068
+[ ur][ ] -> [ ur ] 3069
+[ill][ion] -> [illion] 3070
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][bro ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>bro ] 3071
+[h][orne] -> [horne] 3072
+[cam][m] -> [camm] 3073
+[with][out ] -> [without ] 3074
+[ actu][ally ] -> [ actually ] 3075
+[ tyler][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ tyler<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3076
+[does ][it ] -> [does it ] 3077
+[j][ec] -> [jec] 3078
+[HAR][D] -> [HARD] 3079
+[ se][ver] -> [ sever] 3080
+[AL][R] -> [ALR] 3081
+[co][ver] -> [cover] 3082
+[s][ushi] -> [sushi] 3083
+[ ][i] -> [ i] 3084
+[ ab][t ] -> [ abt ] 3085
+[vide][o ] -> [video ] 3086
+[al][most ] -> [almost ] 3087
+[c][lick] -> [click] 3088
+[H][IM] -> [HIM] 3089
+[ b][lack] -> [ black] 3090
+[ g][onna] -> [ gonna] 3091
+[in][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [in<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3092
+[en]['t ] -> [en't ] 3093
+[p][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [p<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3094
+[be][lie] -> [belie] 3095
+[-\n][nvm<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [-\nnvm<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3096
+[ b][or] -> [ bor] 3097
+[I][ think] -> [I think] 3098
+[fa][ir] -> [fair] 3099
+[haven]['t ] -> [haven't ] 3100
+[ sh][it ] -> [ shit ] 3101
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>B][r] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Br] 3102
+[they]['re ] -> [they're ] 3103
+[\n][yk] -> [\nyk] 3104
+[ou][se ] -> [ouse ] 3105
+[t][ally ] -> [tally ] 3106
+[ you][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ you<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3107
+[ro][p] -> [rop] 3108
+[fin][ish] -> [finish] 3109
+[in][ s] -> [in s] 3110
+[tor][y ] -> [tory ] 3111
+[as][f] -> [asf] 3112
+[O][n] -> [On] 3113
+[N][ever] -> [Never] 3114
+[fe][w] -> [few] 3115
+[T][S] -> [TS] 3116
+[ure][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ure<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3117
+[the ][only ] -> [the only ] 3118
+[F][or] -> [For] 3119
+[S][ERVER] -> [SERVER] 3120
+[ma][x] -> [max] 3121
+[oo][d\n] -> [ood\n] 3122
+[a][ur] -> [aur] 3123
+[ ][no ] -> [ no ] 3124
+[ick][en] -> [icken] 3125
+[ p][l] -> [ pl] 3126
+[LET ][ME ] -> [LET ME ] 3127
+[EC][ON] -> [ECON] 3128
+[ T][O] -> [ TO] 3129
+[ g][ood ] -> [ good ] 3130
+[L][ima] -> [Lima] 3131
+[i ][can't ] -> [i can't ] 3132
+[ wh][ich] -> [ which] 3133
+[h][es ] -> [hes ] 3134
+[G][ONNA ] -> [GONNA ] 3135
+[l][ink] -> [link] 3136
+[H][\n] -> [H\n] 3137
+[ O][F] -> [ OF] 3138
+[l][y s] -> [ly s] 3139
+[e][-<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [e-<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3140
+[l][m] -> [lm] 3141
+[ ][E] -> [ E] 3142
+[SHA][Y] -> [SHAY] 3143
+[v][c] -> [vc] 3144
+[wa][s] -> [was] 3145
+[ry][stal] -> [rystal] 3146
+[r][a ] -> [ra ] 3147
+[NA][IL] -> [NAIL] 3148
+[ON][E\n] -> [ONE\n] 3149
+[c][lu] -> [clu] 3150
+[\n][that ] -> [\nthat ] 3151
+[a][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [a<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3152
+[w][om] -> [wom] 3153
+[ s][pe] -> [ spe] 3154
+[FA][X] -> [FAX] 3155
+[e][v] -> [ev] 3156
+[om][g\n] -> [omg\n] 3157
+[\n][OMG] -> [\nOMG] 3158
+[ f][un] -> [ fun] 3159
+[J][S ] -> [JS ] 3160
+[C][OOK] -> [COOK] 3161
+[al][ot ] -> [alot ] 3162
+[min][ute] -> [minute] 3163
+[how][ do ] -> [how do ] 3164
+[v][is] -> [vis] 3165
+[ a][f] -> [ af] 3166
+[w][ea] -> [wea] 3167
+[you]['ll] -> [you'll] 3168
+[\nB][UT ] -> [\nBUT ] 3169
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>O][k] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Ok] 3170
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>S][o ] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>So ] 3171
+[m][ic] -> [mic] 3172
+[bab][ly ] -> [bably ] 3173
+[A][S ] -> [AS ] 3174
+[:(][\n] -> [:(\n] 3175
+[d][ou] -> [dou] 3176
+[ow][s ] -> [ows ] 3177
+[is ][not ] -> [is not ] 3178
+[H][e ] -> [He ] 3179
+[for][ a ] -> [for a ] 3180
+[ is][ the ] -> [ is the ] 3181
+[alr][\n] -> [alr\n] 3182
+[\ni ][can't ] -> [\ni can't ] 3183
+[C][h] -> [Ch] 3184
+[I][F ] -> [IF ] 3185
+[wait ][lemme ] -> [wait lemme ] 3186
+[g][onna] -> [gonna] 3187
+[al][f] -> [alf] 3188
+[il][y ] -> [ily ] 3189
+[com][ing ] -> [coming ] 3190
+[el][den] -> [elden] 3191
+[ing ][it ] -> [ing it ] 3192
+[ m][a] -> [ ma] 3193
+[D][Y ] -> [DY ] 3194
+[de][ep] -> [deep] 3195
+[G][\n] -> [G\n] 3196
+[craz][y ] -> [crazy ] 3197
+[t][s<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [ts<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3198
+[is][ch] -> [isch] 3199
+[EV][EN ] -> [EVEN ] 3200
+[i][le] -> [ile] 3201
+[T][RA] -> [TRA] 3202
+[DO][WN] -> [DOWN] 3203
+[j][ud] -> [jud] 3204
+[ ][R] -> [ R] 3205
+[ l][and] -> [ land] 3206
+[ho][to] -> [hoto] 3207
+[a][zz] -> [azz] 3208
+[azz][y ] -> [azzy ] 3209
+[to][ go ] -> [to go ] 3210
+[YL][ER ] -> [YLER ] 3211
+[lik][e<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [like<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3212
+[S][T\n] -> [ST\n] 3213
+[lif][e\n] -> [life\n] 3214
+[Peak][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [Peak<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3215
+[da][y<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [day<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3216
+[dud][e\n] -> [dude\n] 3217
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][my ] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>my ] 3218
+[e][y\n] -> [ey\n] 3219
+[ea][t\n] -> [eat\n] 3220
+[\ns][ha] -> [\nsha] 3221
+[i ][forgot ] -> [i forgot ] 3222
+[ h][elp] -> [ help] 3223
+[how][ to] -> [how to] 3224
+[THER][E ] -> [THERE ] 3225
+[call][ed ] -> [called ] 3226
+[ow][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ow<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3227
+[lik][e] -> [like] 3228
+[F][P] -> [FP] 3229
+[torn][ed] -> [torned] 3230
+[K][ILL] -> [KILL] 3231
+[\ni ][am] -> [\ni am] 3232
+[who ][know] -> [who know] 3233
+[po][ss] -> [poss] 3234
+[CAN][ ] -> [CAN ] 3235
+[TI][XL] -> [TIXL] 3236
+[y][es<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [yes<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3237
+[AN][ A] -> [AN A] 3238
+[w][ould] -> [would] 3239
+[I][ was ] -> [I was ] 3240
+[al][ien] -> [alien] 3241
+[W][\n] -> [W\n] 3242
+[ com][p] -> [ comp] 3243
+[ t][ry ] -> [ try ] 3244
+[a][viation] -> [aviation] 3245
+[th][s ] -> [ths ] 3246
+[ min][ute] -> [ minute] 3247
+[no][thing ] -> [nothing ] 3248
+[ha][ir] -> [hair] 3249
+[ T][v] -> [ Tv] 3250
+[us][e\n] -> [use\n] 3251
+[ dis][cord ] -> [ discord ] 3252
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][and] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>and] 3253
+[gonna ][be ] -> [gonna be ] 3254
+[wha][-<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [wha-<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3255
+[C][E\n] -> [CE\n] 3256
+[ m][om] -> [ mom] 3257
+[try][na ] -> [tryna ] 3258
+[in][st] -> [inst] 3259
+[ T][YLER] -> [ TYLER] 3260
+[eng][l] -> [engl] 3261
+[bir][th] -> [birth] 3262
+[e][xt] -> [ext] 3263
+[te][ver] -> [tever] 3264
+[I][n] -> [In] 3265
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Wha][t<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>What<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3266
+[L][IN] -> [LIN] 3267
+[al][ ] -> [al ] 3268
+[go][ated ] -> [goated ] 3269
+[H][E'S ] -> [HE'S ] 3270
+[pick][up the ] -> [pickup the ] 3271
+[u][ can ] -> [u can ] 3272
+[O][T] -> [OT] 3273
+[TH][IS] -> [THIS] 3274
+[orr][y\n] -> [orry\n] 3275
+[ john][\n] -> [ john\n] 3276
+[DI][D] -> [DID] 3277
+[IS ][SO ] -> [IS SO ] 3278
+[ n][ame ] -> [ name ] 3279
+[al][\n] -> [al\n] 3280
+[is][n't ] -> [isn't ] 3281
+[one ][of the ] -> [one of the ] 3282
+[s ][a ] -> [s a ] 3283
+[t][, ] -> [t, ] 3284
+[ on][ly ] -> [ only ] 3285
+[S][S ] -> [SS ] 3286
+[am][e\n] -> [ame\n] 3287
+[ m][usic] -> [ music] 3288
+[da][sh] -> [dash] 3289
+[Y][O\n] -> [YO\n] 3290
+[sha][y\n] -> [shay\n] 3291
+[btw][\n] -> [btw\n] 3292
+[G][ood ] -> [Good ] 3293
+[alr][ bet ] -> [alr bet ] 3294
+[L][Y] -> [LY] 3295
+[LU][KE ] -> [LUKE ] 3296
+[ES][S ] -> [ESS ] 3297
+[as ][a ] -> [as a ] 3298
+[^][^] -> [^^] 3299
+[Y][ES] -> [YES] 3300
+[TW][O ] -> [TWO ] 3301
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][P] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>P] 3302
+[in][ c] -> [in c] 3303
+[f][ine ] -> [fine ] 3304
+[WA][TCH] -> [WATCH] 3305
+[gr][ound] -> [ground] 3306
+[w][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [w<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3307
+[m][yself] -> [myself] 3308
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][ok] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>ok] 3309
+[even][ ] -> [even ] 3310
+[I ][JUST ] -> [I JUST ] 3311
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][\"] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>\"] 3312
+['ll][ be ] -> ['ll be ] 3313
+[ass][\n] -> [ass\n] 3314
+[ sh][it\n] -> [ shit\n] 3315
+[ch][ar] -> [char] 3316
+[elden][ r] -> [elden r] 3317
+[ in][ a ] -> [ in a ] 3318
+[lap][top] -> [laptop] 3319
+[h][our] -> [hour] 3320
+[H][EA] -> [HEA] 3321
+[of][c] -> [ofc] 3322
+[ p][r] -> [ pr] 3323
+[\n][not ] -> [\nnot ] 3324
+[to][uch] -> [touch] 3325
+[ly][ric] -> [lyric] 3326
+[pl][uh\n] -> [pluh\n] 3327
+[know][ what ] -> [know what ] 3328
+[ ][i'ma ] -> [ i'ma ] 3329
+[tr][ue ] -> [true ] 3330
+[\nA][nd] -> [\nAnd] 3331
+[li][g] -> [lig] 3332
+[d][d] -> [dd] 3333
+[ g][if] -> [ gif] 3334
+[te][p] -> [tep] 3335
+[u][ get ] -> [u get ] 3336
+[MA][KE ] -> [MAKE ] 3337
+[should ][i ] -> [should i ] 3338
+[ke ][up] -> [ke up] 3339
+[LA][CK] -> [LACK] 3340
+[ t][s ] -> [ ts ] 3341
+[fr][fr] -> [frfr] 3342
+[ga][ve ] -> [gave ] 3343
+[ g][re] -> [ gre] 3344
+[ is][ so ] -> [ is so ] 3345
+[p][ay ] -> [pay ] 3346
+[in][to] -> [into] 3347
+[inste][ad ] -> [instead ] 3348
+[co][s] -> [cos] 3349
+[ wa][it] -> [ wait] 3350
+[cha][t<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [chat<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3351
+[SUSH][I ] -> [SUSHI ] 3352
+[nam][e\n] -> [name\n] 3353
+[ b][l] -> [ bl] 3354
+[S][ON] -> [SON] 3355
+[go][es ] -> [goes ] 3356
+[ ][time ] -> [ time ] 3357
+[\nsup][ ] -> [\nsup ] 3358
+[a ][h] -> [a h] 3359
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][the ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>the ] 3360
+[G][AME ] -> [GAME ] 3361
+[FIR][ST ] -> [FIRST ] 3362
+[o][t\n] -> [ot\n] 3363
+[ fir][st ] -> [ first ] 3364
+[jo][b] -> [job] 3365
+[h][is] -> [his] 3366
+[ing ][to ] -> [ing to ] 3367
+[\n][is ] -> [\nis ] 3368
+[that's ][what ] -> [that's what ] 3369
+[bu][t\n] -> [but\n] 3370
+[mo][d] -> [mod] 3371
+[in][e\n] -> [ine\n] 3372
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][and] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>and] 3373
+[ t][ry] -> [ try] 3374
+[ on][e\n] -> [ one\n] 3375
+[ess][ir] -> [essir] 3376
+[LE][T] -> [LET] 3377
+[ l][ea] -> [ lea] 3378
+[w][ind] -> [wind] 3379
+[ith][er] -> [ither] 3380
+[f][light ] -> [flight ] 3381
+[ se][e<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [ see<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3382
+[w][o] -> [wo] 3383
+[C][ON] -> [CON] 3384
+[A ][F] -> [A F] 3385
+[G][E\n] -> [GE\n] 3386
+[t][-<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [t-<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3387
+[nam][ed ] -> [named ] 3388
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][no ] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>no ] 3389
+[h][i] -> [hi] 3390
+[from][ the ] -> [from the ] 3391
+[sa][ken] -> [saken] 3392
+[ jo][in] -> [ join] 3393
+[gre][ss] -> [gress] 3394
+[a][ight ] -> [aight ] 3395
+[UR][ ] -> [UR ] 3396
+[vo][ice ] -> [voice ] 3397
+[ c][ya] -> [ cya] 3398
+[g][ur] -> [gur] 3399
+[ f][rappe ] -> [ frappe ] 3400
+[P][HA] -> [PHA] 3401
+[ra][ge] -> [rage] 3402
+[k][ing ] -> [king ] 3403
+[ l][isten] -> [ listen] 3404
+[f][ight] -> [fight] 3405
+[Y][P] -> [YP] 3406
+[ ad][d] -> [ add] 3407
+[DA][Y ] -> [DAY ] 3408
+[C][HAT ] -> [CHAT ] 3409
+[min][er] -> [miner] 3410
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][okay ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>okay ] 3411
+[all][ i ] -> [all i ] 3412
+[sh][it ] -> [shit ] 3413
+[LMFA][O\n] -> [LMFAO\n] 3414
+[wa][it<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [wait<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3415
+[\nI ][GOT ] -> [\nI GOT ] 3416
+[C][R] -> [CR] 3417
+[li][ve ] -> [live ] 3418
+[\n][also ] -> [\nalso ] 3419
+[or][e\n] -> [ore\n] 3420
+[\ni ][love ] -> [\ni love ] 3421
+[ wa][ter] -> [ water] 3422
+[ri][nd] -> [rind] 3423
+[ me][an\n] -> [ mean\n] 3424
+[s\n][i ] -> [s\ni ] 3425
+[TH][AN] -> [THAN] 3426
+[ b][tw] -> [ btw] 3427
+[i][ see\n] -> [i see\n] 3428
+[V][IDE] -> [VIDE] 3429
+[w][\n] -> [w\n] 3430
+[ed ][to ] -> [ed to ] 3431
+[G][IT ] -> [GIT ] 3432
+[:][)] -> [:)] 3433
+[all][y<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ally<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3434
+[att][ack] -> [attack] 3435
+[is][ w] -> [is w] 3436
+[s][t<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [st<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3437
+[ tr][us] -> [ trus] 3438
+[m][ ] -> [m ] 3439
+[.][\"\n] -> [.\"\n] 3440
+[p][s\n] -> [ps\n] 3441
+[E][-\n] -> [E-\n] 3442
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>S][up] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Sup] 3443
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][fym] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>fym] 3444
+[CRAZ][Y\n] -> [CRAZY\n] 3445
+[CRAZ][Y] -> [CRAZY] 3446
+[why ][does ] -> [why does ] 3447
+[ru][ler] -> [ruler] 3448
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][S] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>S] 3449
+[NE][VER] -> [NEVER] 3450
+[anywa][ys<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [anyways<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3451
+[just ][a ] -> [just a ] 3452
+[bu][tter] -> [butter] 3453
+[add][ic] -> [addic] 3454
+[ go][ing to] -> [ going to] 3455
+[ p][a] -> [ pa] 3456
+[ac][c] -> [acc] 3457
+[\n][like ] -> [\nlike ] 3458
+[lma][o] -> [lmao] 3459
+[her][e<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [here<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3460
+[gu][ys\n] -> [guys\n] 3461
+[\n][then] -> [\nthen] 3462
+[ D][A] -> [ DA] 3463
+[O][VER] -> [OVER] 3464
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>B][ut ] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>But ] 3465
+[ed ][me ] -> [ed me ] 3466
+[pro][ve ] -> [prove ] 3467
+[vers][ion] -> [version] 3468
+[ p][ay ] -> [ pay ] 3469
+[I][V] -> [IV] 3470
+[ins][an] -> [insan] 3471
+[lo][se ] -> [lose ] 3472
+[ ][z] -> [ z] 3473
+[UP][ID ] -> [UPID ] 3474
+[w][all] -> [wall] 3475
+[E ][I ] -> [E I ] 3476
+[p][ea] -> [pea] 3477
+[DEFEA][TED ] -> [DEFEATED ] 3478
+[ b][y ] -> [ by ] 3479
+[an][no] -> [anno] 3480
+[ how][ to] -> [ how to] 3481
+[eas][i] -> [easi] 3482
+[es ][are ] -> [es are ] 3483
+[ M][EAN] -> [ MEAN] 3484
+[with][ my ] -> [with my ] 3485
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][no ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>no ] 3486
+[der][ator] -> [derator] 3487
+[mo][ther] -> [mother] 3488
+[, ][and ] -> [, and ] 3489
+[yippe][e<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [yippee<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3490
+[cr][ush] -> [crush] 3491
+[idd][le ] -> [iddle ] 3492
+[oh ][okay\n] -> [oh okay\n] 3493
+[en][se ] -> [ense ] 3494
+[THE ][B] -> [THE B] 3495
+[ST][AR] -> [STAR] 3496
+[\nsh][ould ] -> [\nshould ] 3497
+[ch][annel] -> [channel] 3498
+[id][e\n] -> [ide\n] 3499
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][so ] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>so ] 3500
+[on][line\n] -> [online\n] 3501
+[I][D\n] -> [ID\n] 3502
+[f][re] -> [fre] 3503
+[om][e\n] -> [ome\n] 3504
+[THA][T] -> [THAT] 3505
+[ v][o] -> [ vo] 3506
+[j][k\n] -> [jk\n] 3507
+[A][ S] -> [A S] 3508
+[give ][me ] -> [give me ] 3509
+[ou][th] -> [outh] 3510
+[ther][e\n] -> [there\n] 3511
+[i ][m] -> [i m] 3512
+[s][ter] -> [ster] 3513
+[A ][B] -> [A B] 3514
+[ u][nder] -> [ under] 3515
+[\n][how] -> [\nhow] 3516
+[ s][uck] -> [ suck] 3517
+[th][ough] -> [though] 3518
+[B][r] -> [Br] 3519
+[Wh][y ] -> [Why ] 3520
+[ch][in] -> [chin] 3521
+[ no][obi] -> [ noobi] 3522
+[but ][still] -> [but still] 3523
+[K][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [K<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3524
+[cha][t<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [chat<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3525
+[f][p\n] -> [fp\n] 3526
+[ th][ought ] -> [ thought ] 3527
+[un][ch] -> [unch] 3528
+[EVER][Y ] -> [EVERY ] 3529
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>i ][just ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>i just ] 3530
+[j][es] -> [jes] 3531
+[i ][am] -> [i am] 3532
+[fin][e\n] -> [fine\n] 3533
+[e][f] -> [ef] 3534
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>I][t ] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>It ] 3535
+[goate][d\n] -> [goated\n] 3536
+[ d][r] -> [ dr] 3537
+[v][e<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ve<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3538
+[ne][ar] -> [near] 3539
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>W][ait ] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Wait ] 3540
+[I][SH] -> [ISH] 3541
+[on][ s] -> [on s] 3542
+[ wh][ite] -> [ white] 3543
+[\ni ][forgot ] -> [\ni forgot ] 3544
+[d][ark] -> [dark] 3545
+[ed ][with] -> [ed with] 3546
+[ w][ent ] -> [ went ] 3547
+[ying ][to] -> [ying to] 3548
+[f][ell] -> [fell] 3549
+[AN][\n] -> [AN\n] 3550
+[cor][d\n] -> [cord\n] 3551
+[h][i ] -> [hi ] 3552
+[m][er] -> [mer] 3553
+[wan][na] -> [wanna] 3554
+[es ][a ] -> [es a ] 3555
+[ M][ON] -> [ MON] 3556
+[n][ight] -> [night] 3557
+[te][d] -> [ted] 3558
+[ea][ted ] -> [eated ] 3559
+[D][ING] -> [DING] 3560
+[ v][ro] -> [ vro] 3561
+[G][IRL] -> [GIRL] 3562
+[S][up] -> [Sup] 3563
+[ pe][op] -> [ peop] 3564
+[p][ha] -> [pha] 3565
+[trus][t<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [trust<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3566
+[hea][d ] -> [head ] 3567
+[ stup][id] -> [ stupid] 3568
+[u][ra] -> [ura] 3569
+[ we]['re ] -> [ we're ] 3570
+[lef][t\n] -> [left\n] 3571
+[k][itten] -> [kitten] 3572
+[the s][un] -> [the sun] 3573
+[ M][O] -> [ MO] 3574
+[i][li] -> [ili] 3575
+[be][came ] -> [became ] 3576
+[ ][other] -> [ other] 3577
+[un][i] -> [uni] 3578
+[i][bl] -> [ibl] 3579
+[D][YM] -> [DYM] 3580
+[a][vannah] -> [avannah] 3581
+[sa][vannah] -> [savannah] 3582
+[pra][, vai ] -> [pra, vai ] 3583
+[al][ink] -> [alink] 3584
+[go][\n] -> [go\n] 3585
+[had ][a ] -> [had a ] 3586
+[\ns][o] -> [\nso] 3587
+[pe][op] -> [peop] 3588
+[on][lin] -> [onlin] 3589
+[cu][te] -> [cute] 3590
+[No][t ] -> [Not ] 3591
+[yk what ][i mean] -> [yk what i mean] 3592
+[ s][ound] -> [ sound] 3593
+[he ][sa] -> [he sa] 3594
+[is][ that ] -> [is that ] 3595
+[yes][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [yes<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3596
+[ up][gra] -> [ upgra] 3597
+[goof][y<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [goofy<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3598
+[il][e\n] -> [ile\n] 3599
+[us][u] -> [usu] 3600
+[SA][ID ] -> [SAID ] 3601
+[st][and] -> [stand] 3602
+[ang][e ] -> [ange ] 3603
+[the ][most ] -> [the most ] 3604
+[i ][do] -> [i do] 3605
+[m][ine ] -> [mine ] 3606
+[\nso ][uh\n] -> [\nso uh\n] 3607
+[ar][y ] -> [ary ] 3608
+[sush][i\n] -> [sushi\n] 3609
+[n][ice ] -> [nice ] 3610
+[BOS][S ] -> [BOSS ] 3611
+[comp][lete] -> [complete] 3612
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][real<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>real<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3613
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][E] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>E] 3614
+[ on][ the ] -> [ on the ] 3615
+[chat ][is ] -> [chat is ] 3616
+[he ][was ] -> [he was ] 3617
+[ sh][o] -> [ sho] 3618
+[ your][self] -> [ yourself] 3619
+[pro][bably ] -> [probably ] 3620
+[B][R] -> [BR] 3621
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>H][ow] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>How] 3622
+[vide][o] -> [video] 3623
+[c][ri] -> [cri] 3624
+[T][hat ] -> [That ] 3625
+[nor][mal] -> [normal] 3626
+[SE][E ] -> [SEE ] 3627
+[AS][S ] -> [ASS ] 3628
+[ i ][think] -> [ i think] 3629
+[ma][y ] -> [may ] 3630
+[PL][E ] -> [PLE ] 3631
+[R][IGHT\n] -> [RIGHT\n] 3632
+[with][ the ] -> [with the ] 3633
+[G][u] -> [Gu] 3634
+[Z][Z] -> [ZZ] 3635
+[SUSH][I] -> [SUSHI] 3636
+[ it ][was ] -> [ it was ] 3637
+[is][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [is<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3638
+[in][ h] -> [in h] 3639
+[Tyler][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [Tyler<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3640
+[OML][\n] -> [OML\n] 3641
+[NE][ED ] -> [NEED ] 3642
+[HOW][ T] -> [HOW T] 3643
+[is][ my ] -> [is my ] 3644
+[prob][lem] -> [problem] 3645
+[us][e] -> [use] 3646
+[ b][oo] -> [ boo] 3647
+[\nI ][MEAN] -> [\nI MEAN] 3648
+[ro][ss] -> [ross] 3649
+[IN][DI] -> [INDI] 3650
+[mor][e\n] -> [more\n] 3651
+[ s][car] -> [ scar] 3652
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>s][t] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>st] 3653
+[XEY][A] -> [XEYA] 3654
+[rage][ba] -> [rageba] 3655
+[p][ure ] -> [pure ] 3656
+[every][thing ] -> [everything ] 3657
+[b][lock] -> [block] 3658
+[OH][ H] -> [OH H] 3659
+[ i ][was ] -> [ i was ] 3660
+[bs][ite] -> [bsite] 3661
+[good ][morn] -> [good morn] 3662
+[SO ][GOO] -> [SO GOO] 3663
+[th][o\n] -> [tho\n] 3664
+[idio][t\n] -> [idiot\n] 3665
+[wor][st ] -> [worst ] 3666
+[A][A] -> [AA] 3667
+[s and][ c] -> [s and c] 3668
+[ th][ose ] -> [ those ] 3669
+[umba][ss] -> [umbass] 3670
+[t][.] -> [t.] 3671
+[h][ind] -> [hind] 3672
+[ ][look] -> [ look] 3673
+[n][ing ] -> [ning ] 3674
+[ing][ th] -> [ing th] 3675
+[ic][e<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ice<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3676
+[ru][ss] -> [russ] 3677
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][real] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>real] 3678
+[ in][to] -> [ into] 3679
+[D][ER] -> [DER] 3680
+[\"][I ] -> [\"I ] 3681
+[d][umb] -> [dumb] 3682
+[this ][one ] -> [this one ] 3683
+[ng][l] -> [ngl] 3684
+[ to][ be ] -> [ to be ] 3685
+[ol][d] -> [old] 3686
+[A][H] -> [AH] 3687
+[WA][Y ] -> [WAY ] 3688
+[belie][ve ] -> [believe ] 3689
+[ok][\n] -> [ok\n] 3690
+[cra][ck] -> [crack] 3691
+[lo][l<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [lol<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3692
+[t][b] -> [tb] 3693
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][peak\n] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>peak\n] 3694
+[AN][Y] -> [ANY] 3695
+[go ][to] -> [go to] 3696
+[AN][O] -> [ANO] 3697
+[HOR][NE] -> [HORNE] 3698
+[p][op] -> [pop] 3699
+[tf][ is ] -> [tf is ] 3700
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][OMG] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>OMG] 3701
+[C][LO] -> [CLO] 3702
+[F][\n] -> [F\n] 3703
+[my ][mom] -> [my mom] 3704
+[ti][ve ] -> [tive ] 3705
+[i ][gtg] -> [i gtg] 3706
+[li][l] -> [lil] 3707
+[ b][all] -> [ ball] 3708
+[\n][THE ] -> [\nTHE ] 3709
+[ or][ ] -> [ or ] 3710
+[wh][y\n] -> [why\n] 3711
+[tor][y\n] -> [tory\n] 3712
+[amer][ic] -> [americ] 3713
+[c][er] -> [cer] 3714
+[ h][itler] -> [ hitler] 3715
+[ ][+] -> [ +] 3716
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>i ][think] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>i think] 3717
+[L][uk] -> [Luk] 3718
+[ ][yeah] -> [ yeah] 3719
+[OH ][YEA] -> [OH YEA] 3720
+[g][in] -> [gin] 3721
+[h][ur] -> [hur] 3722
+[M][US] -> [MUS] 3723
+[el][p\n] -> [elp\n] 3724
+[You][r] -> [Your] 3725
+[I][s ] -> [Is ] 3726
+[la][ss] -> [lass] 3727
+[ be][ing ] -> [ being ] 3728
+[ ther][e\n] -> [ there\n] 3729
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][what<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>what<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3730
+[has ][a ] -> [has a ] 3731
+[LOOK][S ] -> [LOOKS ] 3732
+[em][me ] -> [emme ] 3733
+[re][st ] -> [rest ] 3734
+[yk][ the ] -> [yk the ] 3735
+[MA][DE ] -> [MADE ] 3736
+[ma][tch] -> [match] 3737
+[some][one ] -> [someone ] 3738
+[idio][t ] -> [idiot ] 3739
+[LI][ST] -> [LIST] 3740
+[r][ow] -> [row] 3741
+[an][s ] -> [ans ] 3742
+[ ][:] -> [ :] 3743
+[to][m] -> [tom] 3744
+[my ][pc] -> [my pc] 3745
+[r][y\n] -> [ry\n] 3746
+[ sa][id] -> [ said] 3747
+[ess][el] -> [essel] 3748
+[ a][tt] -> [ att] 3749
+[k][ing] -> [king] 3750
+[is][ this ] -> [is this ] 3751
+[j][k] -> [jk] 3752
+[J][ES] -> [JES] 3753
+[to][tally ] -> [totally ] 3754
+[i'm][ not ] -> [i'm not ] 3755
+[e][.<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [e.<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3756
+[Y][ur] -> [Yur] 3757
+[\nI][m] -> [\nIm] 3758
+[i ][d] -> [i d] 3759
+[y s][m] -> [y sm] 3760
+[ star][t ] -> [ start ] 3761
+[\nH][E ] -> [\nHE ] 3762
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][also ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>also ] 3763
+[S][IR] -> [SIR] 3764
+[ min][er] -> [ miner] 3765
+[in][ter] -> [inter] 3766
+[i][-\n] -> [i-\n] 3767
+[IL][K] -> [ILK] 3768
+[ axeya][\n] -> [ axeya\n] 3769
+[CH][AN] -> [CHAN] 3770
+[ M][E\n] -> [ ME\n] 3771
+[gt][g\n] -> [gtg\n] 3772
+[ so ][much] -> [ so much] 3773
+[ma][d ] -> [mad ] 3774
+[t][-<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [t-<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3775
+[E][-<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [E-<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3776
+[what ][do u think] -> [what do u think] 3777
+[AM][ ] -> [AM ] 3778
+[i][e\n] -> [ie\n] 3779
+[ p][oll] -> [ poll] 3780
+[ r][q] -> [ rq] 3781
+[tu][ff] -> [tuff] 3782
+[THA][TS ] -> [THATS ] 3783
+[vo][te] -> [vote] 3784
+[with][ a ] -> [with a ] 3785
+[hea][d] -> [head] 3786
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][what ] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>what ] 3787
+[id][ea] -> [idea] 3788
+[ m][ay ] -> [ may ] 3789
+[LL][ ] -> [LL ] 3790
+[ sh][e's ] -> [ she's ] 3791
+[M][ ] -> [M ] 3792
+[ain][t ] -> [aint ] 3793
+[s][e<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [se<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3794
+[LA][ST ] -> [LAST ] 3795
+[ emo][te] -> [ emote] 3796
+[it][-<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [it-<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3797
+[\ns][ince ] -> [\nsince ] 3798
+[ T][IM] -> [ TIM] 3799
+[ ][like\n] -> [ like\n] 3800
+[tt][a] -> [tta] 3801
+[feel][ like ] -> [feel like ] 3802
+[ ][an ] -> [ an ] 3803
+[ W][HAT ] -> [ WHAT ] 3804
+[\nB][ut ] -> [\nBut ] 3805
+[ stud][y ] -> [ study ] 3806
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Wh][y ] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Why ] 3807
+[h][it ] -> [hit ] 3808
+[do ][you] -> [do you] 3809
+[T][ixl] -> [Tixl] 3810
+[en][t<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [ent<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3811
+[l][a ] -> [la ] 3812
+[ma][tter] -> [matter] 3813
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][fax] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>fax] 3814
+[ ][IT ] -> [ IT ] 3815
+[P][I] -> [PI] 3816
+[ t][ak] -> [ tak] 3817
+[do][ing] -> [doing] 3818
+[p][le ] -> [ple ] 3819
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][alr bet\n] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>alr bet\n] 3820
+[s\n][and ] -> [s\nand ] 3821
+[s][,] -> [s,] 3822
+[irlin][es ] -> [irlines ] 3823
+[pl][e\n] -> [ple\n] 3824
+[LI][KE\n] -> [LIKE\n] 3825
+[REA][LL] -> [REALL] 3826
+[ed ][up] -> [ed up] 3827
+[us][er] -> [user] 3828
+[ w][ell] -> [ well] 3829
+[differ][ent ] -> [different ] 3830
+[th][ing<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [thing<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3831
+[that ][one ] -> [that one ] 3832
+[mo][ve ] -> [move ] 3833
+[o][on] -> [oon] 3834
+[s][leep] -> [sleep] 3835
+[mean][s ] -> [means ] 3836
+[p][s ] -> [ps ] 3837
+[dea][d] -> [dead] 3838
+[ed ][by ] -> [ed by ] 3839
+[wtf][\n] -> [wtf\n] 3840
+[ sa][ve ] -> [ save ] 3841
+[ bu][y ] -> [ buy ] 3842
+[to][ make ] -> [to make ] 3843
+[c][t ] -> [ct ] 3844
+[u can]['t ] -> [u can't ] 3845
+[ER][S\n] -> [ERS\n] 3846
+[par][ents ] -> [parents ] 3847
+[MA][R] -> [MAR] 3848
+[all][y<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [ally<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3849
+[is][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [is<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3850
+[ m][en] -> [ men] 3851
+[ me][an ] -> [ mean ] 3852
+[ba][by ] -> [baby ] 3853
+[\nB][RO] -> [\nBRO] 3854
+[s][car] -> [scar] 3855
+[ d][es] -> [ des] 3856
+[ou][ts] -> [outs] 3857
+[eas][y\n] -> [easy\n] 3858
+[ di][amond] -> [ diamond] 3859
+[SHA][Y ] -> [SHAY ] 3860
+[S][E\n] -> [SE\n] 3861
+[ D][ID ] -> [ DID ] 3862
+[PLA][Y ] -> [PLAY ] 3863
+[sh][op] -> [shop] 3864
+[go][d ] -> [god ] 3865
+[ELL ][NA] -> [ELL NA] 3866
+[all][\n] -> [all\n] 3867
+[ST][FU] -> [STFU] 3868
+[i][ous ] -> [ious ] 3869
+[ond][er] -> [onder] 3870
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>N][ah] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Nah] 3871
+[ou][nt ] -> [ount ] 3872
+[X][D\n] -> [XD\n] 3873
+[tell][ u] -> [tell u] 3874
+[ ax][eya ] -> [ axeya ] 3875
+[s][ame ] -> [same ] 3876
+[p][ale ] -> [pale ] 3877
+[NE][W] -> [NEW] 3878
+[s ][is ] -> [s is ] 3879
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>i ][mean] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>i mean] 3880
+[wor][ld ] -> [world ] 3881
+[ar][e\n] -> [are\n] 3882
+[ s][earch] -> [ search] 3883
+[goate][d] -> [goated] 3884
+[ m][yself] -> [ myself] 3885
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>H][e ] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>He ] 3886
+[b][b] -> [bb] 3887
+[F][RAPP] -> [FRAPP] 3888
+[riv][ate] -> [rivate] 3889
+[u][ were ] -> [u were ] 3890
+[how][ many ] -> [how many ] 3891
+[y][o\n] -> [yo\n] 3892
+[t][re] -> [tre] 3893
+[ go][ing ] -> [ going ] 3894
+[P][\n] -> [P\n] 3895
+[yea][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [yea<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3896
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>A][l] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Al] 3897
+[re][minds ] -> [reminds ] 3898
+[h][ome] -> [home] 3899
+[OUGH][T ] -> [OUGHT ] 3900
+[clo][se ] -> [close ] 3901
+[ D][I] -> [ DI] 3902
+['][s\n] -> ['s\n] 3903
+[ u][p\n] -> [ up\n] 3904
+[b][ann] -> [bann] 3905
+[g][ay ] -> [gay ] 3906
+[ b][ab] -> [ bab] 3907
+[ver][age ] -> [verage ] 3908
+[ed ][him] -> [ed him] 3909
+['][D ] -> ['D ] 3910
+[I][PP] -> [IPP] 3911
+[:(][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [:(<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3912
+[when][ u] -> [when u] 3913
+[ca][tion] -> [cation] 3914
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][so ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>so ] 3915
+[ne][ss] -> [ness] 3916
+[GAM][E\n] -> [GAME\n] 3917
+[KING][ AB] -> [KING AB] 3918
+[OUN][D ] -> [OUND ] 3919
+[god][damn] -> [goddamn] 3920
+[ag][ree ] -> [agree ] 3921
+[ic][e<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [ice<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 3922
+[N][ow] -> [Now] 3923
+[wa][ter] -> [water] 3924
+[\nW][E ] -> [\nWE ] 3925
+[d][one ] -> [done ] 3926
+[ or][ smth] -> [ or smth] 3927
+[T][his ] -> [This ] 3928
+[LEM][ME ] -> [LEMME ] 3929
+[h][u] -> [hu] 3930
+[s][im] -> [sim] 3931
+[ A][RE ] -> [ ARE ] 3932
+[ESS][IR] -> [ESSIR] 3933
+[N][o<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [No<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3934
+[ER][S ] -> [ERS ] 3935
+[\nT][he ] -> [\nThe ] 3936
+[what ][if] -> [what if] 3937
+[P][RO] -> [PRO] 3938
+[ s][c] -> [ sc] 3939
+[pos][ed to] -> [posed to] 3940
+[at][least ] -> [atleast ] 3941
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>sup][ ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>sup ] 3942
+[th][<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [th<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 3943
+[ing][ w] -> [ing w] 3944
+[r][d ] -> [rd ] 3945
+[s][uck] -> [suck] 3946
+[T][S\n] -> [TS\n] 3947
+[P][ ] -> [P ] 3948
+[ ][K] -> [ K] 3949
+[s ][and ] -> [s and ] 3950
+[\nso ][uh] -> [\nso uh] 3951
+[R][N] -> [RN] 3952
+[yur][i ] -> [yuri ] 3953
+[t][a ] -> [ta ] 3954
+[s][.] -> [s.] 3955
+[ha][d] -> [had] 3956
+[do][g] -> [dog] 3957
+[ob][vi] -> [obvi] 3958
+[f][l] -> [fl] 3959
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>s][hay ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>shay ] 3960
+[one ][sec] -> [one sec] 3961
+[GE][TT] -> [GETT] 3962
+[pla][ce ] -> [place ] 3963
+[d][ep] -> [dep] 3964
+[p][ac] -> [pac] 3965
+[\nW][ITH] -> [\nWITH] 3966
+[V][AN] -> [VAN] 3967
+[ ][-\n] -> [ -\n] 3968
+[i][es] -> [ies] 3969
+[ st][age ] -> [ stage ] 3970
+[u][ti] -> [uti] 3971
+[engl][ish] -> [english] 3972
+[r][it] -> [rit] 3973
+[p][hoto] -> [photo] 3974
+[com][ra] -> [comra] 3975
+[ sa][van] -> [ savan] 3976
+[da][ys ] -> [days ] 3977
+[c][lear] -> [clear] 3978
+[c][tion] -> [ction] 3979
+[pla][y\n] -> [play\n] 3980
+[actu][ally s] -> [actually s] 3981
+[ r][ep] -> [ rep] 3982
+[ st][ag] -> [ stag] 3983
+[we][ek] -> [week] 3984
+[el][come ] -> [elcome ] 3985
+[ wh][ile ] -> [ while ] 3986
+[par][t ] -> [part ] 3987
+[ ab][out\n] -> [ about\n] 3988
+[a][st ] -> [ast ] 3989
+[when][ he ] -> [when he ] 3990
+[s ][to ] -> [s to ] 3991
+[ ][nail] -> [ nail] 3992
+[ex][act] -> [exact] 3993
+[ p][i] -> [ pi] 3994
+[ th][e] -> [ the] 3995
+[v][eal] -> [veal] 3996
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][and ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>and ] 3997
+[p][ec] -> [pec] 3998
+[ACTU][ALLY ] -> [ACTUALLY ] 3999
+[cuz][ of] -> [cuz of] 4000
+[e][ma] -> [ema] 4001
+[l][ist ] -> [list ] 4002
+[in][t ] -> [int ] 4003
+[dea][d\n] -> [dead\n] 4004
+[k][e\n] -> [ke\n] 4005
+[A][re ] -> [Are ] 4006
+[ stream][\n] -> [ stream\n] 4007
+[Tv][T\n] -> [TvT\n] 4008
+[u]['ll] -> [u'll] 4009
+[ba][d] -> [bad] 4010
+[b][ra] -> [bra] 4011
+[sound][s ] -> [sounds ] 4012
+[fi][re] -> [fire] 4013
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>I]['] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>I'] 4014
+[are ][we ] -> [are we ] 4015
+[ ][x] -> [ x] 4016
+[K][E] -> [KE] 4017
+[ ][old ] -> [ old ] 4018
+[play][ed ] -> [played ] 4019
+[poss][ib] -> [possib] 4020
+[-\n][I ] -> [-\nI ] 4021
+[no][t<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] -> [not<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>] 4022
+[you ][have ] -> [you have ] 4023
+[N][AME ] -> [NAME ] 4024
+[\n][we ] -> [\nwe ] 4025
+[mo][vi] -> [movi] 4026
+[IN][TO ] -> [INTO ] 4027
+[p][ur] -> [pur] 4028
+[ in][ my ] -> [ in my ] 4029
+[ab][solute] -> [absolute] 4030
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>N][ot ] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>Not ] 4031
+[GO][DD] -> [GODD] 4032
+[GODD][AMN] -> [GODDAMN] 4033
+[e][ing ] -> [eing ] 4034
+[S][ING] -> [SING] 4035
+[EX][AC] -> [EXAC] 4036
+[un][til] -> [until] 4037
+[A][GA] -> [AGA] 4038
+[ing][le ] -> [ingle ] 4039
+[\nS][UP] -> [\nSUP] 4040
+[CK][ ] -> [CK ] 4041
+[ that][s ] -> [ thats ] 4042
+[LIMA][Y] -> [LIMAY] 4043
+[<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>][but ] -> [<|endoftext|>",\u000a    "<|startoftext|>Assistant<|separator|>but ] 4044
+[ s][ilksong] -> [ silksong] 4045
+[ d][oll] -> [ doll] 4046
+[st][fu] -> [stfu] 4047
+[v][e<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [ve<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 4048
+[ h][um] -> [ hum] 4049
+[v][essel] -> [vessel] 4050
+[ def][eat ] -> [ defeat ] 4051
+[ w][ar] -> [ war] 4052
+[ge][ts ] -> [gets ] 4053
+[ s][chool] -> [ school] 4054
+[ah][em\n] -> [ahem\n] 4055
+[then][ i ] -> [then i ] 4056
+[h][k\n] -> [hk\n] 4057
+[MOR][E ] -> [MORE ] 4058
+[who][le ] -> [whole ] 4059
+[so ][much] -> [so much] 4060
+[damn][\n] -> [damn\n] 4061
+[ge][ther] -> [gether] 4062
+[ B][ACK] -> [ BACK] 4063
+[would ][be ] -> [would be ] 4064
+[in][ to] -> [in to] 4065
+[-\n][i ] -> [-\ni ] 4066
+[know][\n] -> [know\n] 4067
+[THE ][FUCK] -> [THE FUCK] 4068
+[Y][S\n] -> [YS\n] 4069
+[\n][(] -> [\n(] 4070
+[out ][of] -> [out of] 4071
+[pr][is] -> [pris] 4072
+[ing ][at ] -> [ing at ] 4073
+[l][eas] -> [leas] 4074
+[U][T] -> [UT] 4075
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][uh\n] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>uh\n] 4076
+[D][id] -> [Did] 4077
+[U][D] -> [UD] 4078
+[fr][fr\n] -> [frfr\n] 4079
+[f][all] -> [fall] 4080
+[LMFAO][<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [LMFAO<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 4081
+[per][f] -> [perf] 4082
+[v][al] -> [val] 4083
+[pl][uh<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] -> [pluh<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>] 4084
+[-][op] -> [-op] 4085
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>][gng] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>gng] 4086
+[ hollow kn][ight\n] -> [ hollow knight\n] 4087
+[got ][a ] -> [got a ] 4088
+[ hollow kn][ight ] -> [ hollow knight ] 4089
+[f][ym\n] -> [fym\n] 4090
+[ re][ad] -> [ read] 4091
+[how][ tf] -> [how tf] 4092
+[u][ to] -> [u to] 4093
+[pl][eas] -> [pleas] 4094
+[<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>T][YLER] -> [<|endoftext|>",\u000a    "<|startoftext|>You<|separator|>TYLER] 4095
